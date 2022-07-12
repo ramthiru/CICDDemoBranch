@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[*****shop_createUserAccount*******]]>
+    </line>
+    <line>
+      <![CDATA[1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[2;Create new user account;Clicked on SignIn link;Pass_ScreenShot]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[3;Create new user account;Create new user account Execution interrupted by Some issues;Fail]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+  </reporter-output>
+  <suite name="AutSuite" duration-ms="319813" started-at="2022-07-07T20:20:10Z" finished-at="2022-07-07T20:25:30Z">
+    <groups>
+    </groups>
+    <test name="AutTest" duration-ms="319813" started-at="2022-07-07T20:20:10Z" finished-at="2022-07-07T20:25:30Z">
+      <class name="com.wow.rpc.TestCases.CreateAccountTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.wow.rpc.TestCases.CreateAccountTest@77cd7a0]" name="beforeSuite" is-config="true" duration-ms="8" started-at="2022-07-08T01:50:10Z" finished-at="2022-07-08T01:50:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest(java.lang.String, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.wow.rpc.TestCases.CreateAccountTest@77cd7a0]" name="beforeTest" is-config="true" duration-ms="1" started-at="2022-07-08T01:50:10Z" finished-at="2022-07-08T01:50:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SIT]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@3b088d51]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="createDriver()[pri:0, instance:com.wow.rpc.TestCases.CreateAccountTest@77cd7a0]" name="createDriver" is-config="true" duration-ms="16742" started-at="2022-07-08T01:50:10Z" finished-at="2022-07-08T01:50:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method status="PASS" signature="shop_createUserAccount()[pri:0, instance:com.wow.rpc.TestCases.CreateAccountTest@77cd7a0]" name="shop_createUserAccount" duration-ms="302978" started-at="2022-07-08T01:50:27Z" finished-at="2022-07-08T01:55:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[*****shop_createUserAccount*******]]>
+            </line>
+            <line>
+              <![CDATA[1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[2;Create new user account;Clicked on SignIn link;Pass_ScreenShot]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[3;Create new user account;Create new user account Execution interrupted by Some issues;Fail]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- shop_createUserAccount -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.wow.rpc.TestCases.CreateAccountTest@77cd7a0]" name="tearDown" is-config="true" duration-ms="8" started-at="2022-07-08T01:55:30Z" finished-at="2022-07-08T01:55:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="publishReport()[pri:0, instance:com.wow.rpc.TestCases.CreateAccountTest@77cd7a0]" name="publishReport" is-config="true" duration-ms="45" started-at="2022-07-08T01:55:30Z" finished-at="2022-07-08T01:55:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- publishReport -->
+      </class> <!-- com.wow.rpc.TestCases.CreateAccountTest -->
+    </test> <!-- AutTest -->
+  </suite> <!-- AutSuite -->
+</testng-results>

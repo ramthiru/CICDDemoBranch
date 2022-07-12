@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"> -->
+<suite name="WOWsTestSuite" parallel="methods" thread-count="4">
+<!--  <suite name="WOWsTestSuite" parallel="methods" thread-count="2"> --> 
+
+<!-- <test name="RegresstionTests" >
+	<parameter name="browser" value="CH"/>
+	<parameter name="ENV" value="SIT"/>
+		<classes>
+			<class name="com.wow.rpc.TestCases.STPRM_ValidateSellTimeParameter">
+				<methods>
+			
+				<include name="sTPRM_sc1"></include>
+				<include name="sTPRM_sc2"></include>
+			
+				<include name="stPrm_Create1038SiteOnStpWithSubCategory"></include>
+				
+				</methods>
+				
+			</class>
+		
+		</classes>
+		
+		
+
+</test> -->
+
+<test name="RegresstionTests">
+   <classes>
+   	<parameter name="browser" value="CH"/>
+	<parameter name="ENV" value="SIT"/>
+          <class name="com.wow.rpc.TestCases.PRMB_ValidateCreatePromoEndTypeMappingTestCases"/> 
+          
+  
+          <methods>
+			
+				
+				<include name="prmb_TC03_VerifyDeleteCheckBxWithAllDispEndTypeMapping"></include>
+				<!-- <include name="stPrm_ValidateResetFuncationalityInSTP"></include>
+				<include name="stPrm_VerifyValidationMessageforMandatoryFields"></include>
+				<include name="stPrm_VerifyAutoSuggestedValueInStp"></include> -->
+				
+				</methods>
+    </classes>
+  </test>
+
+</suite> 
+  

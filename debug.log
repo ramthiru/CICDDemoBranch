@@ -1,0 +1,289 @@
+[0509/142703.983:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0509/142703.984:ERROR:exception_snapshot_win.cc(87)] thread ID 21648 not found in process
+[0509/142703.985:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0509/142703.986:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: An attempt was made to access an exiting process.  (0xc000010a)
+[0516/160042.962:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0516/160042.963:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0516/160042.963:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0516/160042.963:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0516/160042.963:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0516/160042.963:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0516/160042.963:ERROR:exception_snapshot_win.cc(87)] thread ID 32356 not found in process
+[0516/160042.963:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0518/132955.826:ERROR:process_info.cc(380)] UncheckedAllocate
+[0518/132956.056:ERROR:process_info.cc(380)] UncheckedAllocate
+[0530/125014.566:ERROR:process_info.cc(380)] UncheckedAllocate
+[0530/125346.794:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Error (0x13D) while retrieving error. (0x6D)
+[0625/172640.601:ERROR:process_info.cc(380)] UncheckedAllocate
+[0626/105000.848:ERROR:process_info.cc(380)] UncheckedAllocate
+[0626/105000.948:ERROR:process_info.cc(380)] UncheckedAllocate
+[0626/105000.949:ERROR:process_reader_win.cc(242)] ReadMemory at 0x13fa20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.950:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0626/105000.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77500000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.950:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\ntdll.dll
+[0626/105000.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefd500000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.950:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\KERNELBASE.dll
+[0626/105000.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x772e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.950:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\kernel32.dll
+[0626/105000.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe1c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.950:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\msvcrt.dll
+[0626/105000.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefccd0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.950:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\VERSION.dll
+[0626/105000.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feea8e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.950:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\61.0.3163.79\chrome_elf.dll
+[0626/105000.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe260000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.950:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\RPCRT4.dll
+[0626/105000.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe0c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.950:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\sechost.dll
+[0626/105000.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefd990000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.950:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\ADVAPI32.dll
+[0626/105000.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x776c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.950:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\PSAPI.DLL
+[0626/105000.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x470000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.950:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\USER32.dll
+[0626/105000.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe470000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.950:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\USP10.dll
+[0626/105000.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefdd80000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.950:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\LPK.dll
+[0626/105000.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefda70000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.950:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\GDI32.dll
+[0626/105000.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe0f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.950:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\SHLWAPI.dll
+[0626/105000.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe690000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.950:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\SHELL32.dll
+[0626/105000.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fef9370000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.950:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\WINMM.dll
+[0626/105000.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefd1f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.950:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\profapi.dll
+[0626/105000.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefd4d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.950:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\USERENV.dll
+[0626/105000.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fef09a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.950:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\webio.dll
+[0626/105000.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fef0a10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.950:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\WINHTTP.dll
+[0626/105000.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fef96a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.950:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\api-ms-win-core-synch-l1-2-0.DLL
+[0626/105000.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefdae0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\MSCTF.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe660000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\IMM32.DLL
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefd100000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from c:\progra~1\citrix\system32\mfaphook64.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefd020000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files\Citrix\ICAService\picaFullScreenHookX64.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefc920000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files\Citrix\ICAService\ShellHook64.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefcea0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files\Citrix\ICAService\SCardHook64.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefce30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files\Citrix\ICAService\cxinjime64.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefcce0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files\Citrix\ICAService\PicaWtsHook64.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefd790000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\ole32.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe390000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\OLEAUT32.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe0e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\NSI.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe170000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\WS2_32.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefd200000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\MSASN1.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefd360000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\CRYPT32.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefd210000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\WINTRUST.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefb690000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_fa3b1e3d17594757\COMCTL32.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff440000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\COMDLG32.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feefe20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\dbghelp.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefac60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\WINSPOOL.DRV
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefab00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\WINNSI.DLL
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefab60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\IPHLPAPI.DLL
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefc820000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\Secur32.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefc880000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\SSPICLI.DLL
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefd2b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\api-ms-win-downlevel-ole32-l1-1-0.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefd580000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\api-ms-win-downlevel-shlwapi-l1-1-0.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefd570000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\api-ms-win-downlevel-advapi32-l1-1-0.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefd4f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\api-ms-win-downlevel-user32-l1-1-0.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefd2a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\api-ms-win-downlevel-version-l1-1-0.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefd290000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\api-ms-win-downlevel-normaliz-l1-1-0.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x776d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\normaliz.DLL
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff4e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\iertutil.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefdd90000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\WININET.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefdbf0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\urlmon.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fee8260000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.951:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\DWrite.dll
+[0626/105000.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fed0ad0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.952:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\61.0.3163.79\chrome_child.dll
+[0626/105000.952:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fee93d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.952:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files\Common Files\microsoft shared\ink\tiptsf.dll
+[0626/105000.952:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefc910000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.952:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\CRYPTBASE.dll
+[0626/105000.952:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fef9420000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.952:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\ATL.DLL
+[0626/105000.952:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fef9510000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.952:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\AVRT.dll
+[0626/105000.952:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fee8090000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.952:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\MFPlat.DLL
+[0626/105000.952:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6d9b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.952:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\ksuser.dll
+[0626/105000.952:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fee0340000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.952:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\mf.dll
+[0626/105000.952:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefd250000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.952:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\CFGMGR32.dll
+[0626/105000.952:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefd590000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.952:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\DEVOBJ.dll
+[0626/105000.952:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefd5b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.952:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\SETUPAPI.dll
+[0626/105000.952:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fef9520000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.952:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\POWRPROF.dll
+[0626/105000.952:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feea980000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.952:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\EVR.dll
+[0626/105000.952:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fef9be0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.952:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\slc.dll
+[0626/105000.952:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefc3f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.952:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\bcrypt.dll
+[0626/105000.952:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fee0890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.952:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\msmpeg2vdec.dll
+[0626/105000.952:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fef9c20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.952:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\dxva2.dll
+[0626/105000.952:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fedff10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.952:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\D3DCompiler_47.dll
+[0626/105000.957:ERROR:process_reader_win.cc(242)] ReadMemory at 0x2ca000 of 24576 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0626/105000.957:ERROR:crash_report_exception_handler.cc(116)] WriteEverything failed
+[0626/105000.958:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: An attempt was made to access an exiting process.  (0xc000010a)
+[1109/133445.001:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[1109/133445.005:ERROR:exception_snapshot_win.cc(88)] thread ID 15152 not found in process
+[1109/133445.005:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0104/144826.538:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0104/144826.553:ERROR:process_info.cc(550)] ReadMemoryInfo failed
+[0104/144826.553:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fee651f1e8 of 12 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0104/144826.553:WARNING:process_snapshot_win.cc(69)] ReadMemory ExceptionInformation failed
+[0104/144826.553:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0104/144826.553:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0319/122900.720:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0319/122900.867:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0319/122900.897:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0319/122900.897:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0319/122901.073:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0319/122901.575:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0319/122902.931:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0319/122903.665:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0319/122904.731:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0319/122905.714:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0319/122907.297:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0319/122908.975:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0319/122908.975:ERROR:exception_snapshot_win.cc(88)] thread ID 27356 not found in process
+[0319/122908.975:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0319/122908.975:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0518/214418.308:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0518/214418.326:ERROR:exception_snapshot_win.cc(88)] thread ID 8512 not found in process
+[0518/214418.326:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0520/112743.288:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0520/112743.289:ERROR:exception_snapshot_win.cc(88)] thread ID 6864 not found in process
+[0521/100126.055:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0521/100126.060:ERROR:exception_snapshot_win.cc(88)] thread ID 16332 not found in process
+[0521/121309.926:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0521/121309.928:ERROR:exception_snapshot_win.cc(88)] thread ID 15120 not found in process
+[0521/121338.708:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0521/121338.710:ERROR:exception_snapshot_win.cc(88)] thread ID 10988 not found in process
+[0523/142856.357:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0523/142856.404:ERROR:exception_snapshot_win.cc(88)] thread ID 15948 not found in process
+[0523/142856.404:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0523/151828.909:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0523/151828.914:ERROR:exception_snapshot_win.cc(88)] thread ID 22184 not found in process
+[0523/155751.652:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0523/155751.652:ERROR:process_info.cc(550)] ReadMemoryInfo failed
+[0523/155751.652:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0523/155751.652:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0524/124027.924:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0524/124027.927:ERROR:exception_snapshot_win.cc(88)] thread ID 2948 not found in process
+[0520/234603.154:ERROR:process_info.cc(359)] UncheckedAllocate
+[0521/001008.967:ERROR:process_info.cc(359)] UncheckedAllocate
+[1023/170919.794:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1102/223154.142:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1102/230929.096:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1103/105902.661:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1103/111253.014:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1103/144811.210:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1103/151729.289:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1103/153751.700:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1103/155706.211:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1103/164128.844:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1103/164506.419:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1104/085454.588:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1105/092059.369:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1105/115029.151:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1105/115417.039:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1105/122125.977:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1105/124517.211:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1105/125027.678:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1105/130827.537:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1105/133038.078:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1105/144524.022:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1105/150617.222:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1105/153529.984:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1105/172313.712:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1105/184618.506:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1105/185411.904:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1105/190205.912:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1105/191734.107:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1105/192125.074:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1105/193739.255:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1105/194131.252:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1105/200013.395:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1105/202726.859:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1105/214416.996:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/102252.475:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/102617.830:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/123058.392:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/123423.256:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/191205.861:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/191532.152:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1216/145302.913:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1216/145324.876:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1216/193440.147:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1216/193801.701:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1216/200318.821:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1216/200639.058:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0108/161210.613:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0108/161535.020:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0108/174236.781:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0108/175138.248:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0108/175459.297:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0110/005937.161:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0110/005959.263:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0110/235223.147:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0110/235542.474:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0111/114926.866:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0111/115045.036:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0121/190059.266:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0121/190225.379:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0121/190548.485:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0121/220141.958:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0121/220503.558:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0121/225231.541:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0121/234334.542:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0122/021112.513:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0122/021433.173:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0204/224435.184:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0204/224543.694:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0204/224905.374:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

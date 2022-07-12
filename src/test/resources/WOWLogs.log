@@ -1,0 +1,990 @@
+2021-05-06 12:44:26,688 [pool-1-thread-1] [INFO] [WowReport:272] - 179;PLMS Login ;Clicked on PLMS login button ;Pass_ScreenShot 
+2021-05-06 12:44:27,498 [pool-1-thread-1] [INFO] [WowReport:272] - 180;Vendor Compliance Validation;Clicked on Vendor Management;Pass 
+2021-05-06 12:44:32,599 [pool-1-thread-1] [INFO] [WowReport:272] - 181;Vendor Compliance Validation;Navigated to party link screen;Pass 
+2021-05-06 12:44:37,739 [pool-1-thread-1] [INFO] [WowReport:272] - 182;Vendor Compliance Validation;Key In the value for Site ID;Pass 
+2021-05-06 12:44:40,825 [pool-1-thread-1] [INFO] [WowReport:272] - 183;Vendor Compliance Validation;Clicked on Search button;Pass 
+2021-05-06 12:44:50,916 [pool-1-thread-1] [INFO] [WowReport:272] - 184;Vendor Compliance Validation;Able to view the Site id and Clicked on the same;Pass 
+2021-05-06 12:45:01,066 [pool-1-thread-1] [INFO] [WowReport:272] - 185;Vendor Compliance Validation;Key In the value for Product ;Pass 
+2021-05-06 12:45:01,552 [pool-1-thread-1] [INFO] [WowReport:272] - 186;Vendor Compliance Validation;Key In the value for Product Category;Pass 
+2021-05-06 12:45:01,673 [pool-1-thread-1] [INFO] [WowReport:272] - 187;Vendor Compliance Validation;Key In the value for Product Name;Pass 
+2021-05-06 12:45:03,322 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_12_45_01.png 
+2021-05-06 12:45:03,322 [pool-1-thread-1] [INFO] [WowReport:272] - 188;Vendor Compliance Validation;Selected the Product's status;Pass_ScreenShot 
+2021-05-06 12:45:11,413 [pool-1-thread-1] [INFO] [WowReport:272] - 189;Vendor Compliance Validation;Clicked on Save button;Pass 
+2021-05-06 12:45:22,904 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_12_45_21.png 
+2021-05-06 12:45:22,904 [pool-1-thread-1] [INFO] [WowReport:272] - 190;Vendor Compliance Validation;Clicked on more action;Pass_ScreenShot 
+2021-05-06 12:45:27,992 [pool-1-thread-1] [INFO] [WowReport:272] - 191;Vendor Compliance Validation;Able to view the request pre audit site visit and Clicked on it;Pass 
+2021-05-06 12:45:41,084 [pool-1-thread-1] [INFO] [WowReport:272] - 192;Vendor Compliance Validation;Clicked on Logout Icon ;Pass 
+2021-05-06 12:45:49,668 [pool-1-thread-1] [INFO] [WowReport:272] - 193;Vendor Compliance Validation;Logout from the Application by Clicked on Logout Link;Pass 
+2021-05-06 12:45:49,984 [pool-1-thread-1] [INFO] [WowReport:272] - 194;Login Page;Navigated to Url : https://wow.tradestoneasp.net/woolworthstest/;Pass 
+2021-05-06 12:46:04,092 [pool-1-thread-1] [INFO] [WowReport:272] - 195;PLMS Login;Entered UserName;Pass 
+2021-05-06 12:46:04,173 [pool-1-thread-1] [INFO] [WowReport:272] - 196;PLMS Login;Entered Password;Pass 
+2021-05-06 12:46:11,993 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: PLMS Login  Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\PLMS_Login__05_06_2021_12_46_10.png 
+2021-05-06 12:46:11,993 [pool-1-thread-1] [INFO] [WowReport:272] - 197;PLMS Login ;Clicked on PLMS login button ;Pass_ScreenShot 
+2021-05-06 12:46:17,097 [pool-1-thread-1] [INFO] [WowReport:272] - 198;Vendor Compliance Validation;Clicked on Vendor Management;Pass 
+2021-05-06 12:46:22,186 [pool-1-thread-1] [INFO] [WowReport:272] - 199;Vendor Compliance Validation;Navigated to party link screen;Pass 
+2021-05-06 12:46:27,342 [pool-1-thread-1] [INFO] [WowReport:272] - 200;Vendor Compliance Validation;Key In the value for party ID;Pass 
+2021-05-06 12:46:30,442 [pool-1-thread-1] [INFO] [WowReport:272] - 201;Vendor Compliance Validation;Clicked on Search button;Pass 
+2021-05-06 12:46:40,536 [pool-1-thread-1] [INFO] [WowReport:272] - 202;Vendor Compliance Validation;Able to view the Site id and Clicked on the same;Pass 
+2021-05-06 12:46:47,154 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_12_46_45.png 
+2021-05-06 12:46:47,154 [pool-1-thread-1] [INFO] [WowReport:272] - 203;Vendor Compliance Validation;Selected the Pre Audit visit outcome;Pass_ScreenShot 
+2021-05-06 12:46:50,242 [pool-1-thread-1] [INFO] [WowReport:272] - 204;Vendor Compliance Validation;Clicked on Save button;Pass 
+2021-05-06 12:46:59,765 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_12_46_58.png 
+2021-05-06 12:46:59,765 [pool-1-thread-1] [INFO] [WowReport:272] - 205;Vendor Compliance Validation;Clicked on more action;Pass_ScreenShot 
+2021-05-06 12:47:04,850 [pool-1-thread-1] [INFO] [WowReport:272] - 206;Vendor Compliance Validation;Able to view the pre audit visit complete and Clicked on it;Pass 
+2021-05-06 12:47:17,956 [pool-1-thread-1] [INFO] [WowReport:272] - 207;Vendor Compliance Validation;Clicked on Logout Icon ;Pass 
+2021-05-06 12:47:26,570 [pool-1-thread-1] [INFO] [WowReport:272] - 208;Vendor Compliance Validation;Logout from the Application by Clicked on Logout Link;Pass 
+2021-05-06 12:47:26,857 [pool-1-thread-1] [INFO] [WowReport:272] - 209;Login Page;Navigated to Url : https://wow.tradestoneasp.net/woolworthstest/;Pass 
+2021-05-06 12:47:40,952 [pool-1-thread-1] [INFO] [WowReport:272] - 210;PLMS Login;Entered UserName;Pass 
+2021-05-06 12:47:41,034 [pool-1-thread-1] [INFO] [WowReport:272] - 211;PLMS Login;Entered Password;Pass 
+2021-05-06 12:47:48,547 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: PLMS Login  Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\PLMS_Login__05_06_2021_12_47_47.png 
+2021-05-06 12:47:48,547 [pool-1-thread-1] [INFO] [WowReport:272] - 212;PLMS Login ;Clicked on PLMS login button ;Pass_ScreenShot 
+2021-05-06 12:47:49,336 [pool-1-thread-1] [INFO] [WowReport:272] - 213;Vendor Compliance Validation;Clicked on Vendor Management ;Pass 
+2021-05-06 12:47:54,984 [pool-1-thread-1] [INFO] [WowReport:272] - 214;Vendor Compliance Validation;Clicked on Dashboard link;Pass 
+2021-05-06 12:48:00,084 [pool-1-thread-1] [INFO] [WowReport:272] - 215;Vendor Compliance Validation;Clicked on the Sub Agent Pending approval;Pass 
+2021-05-06 12:48:05,244 [pool-1-thread-1] [INFO] [WowReport:272] - 216;Vendor Compliance Validation;Key In the value for party ID;Pass 
+2021-05-06 12:48:10,452 [pool-1-thread-1] [INFO] [WowReport:272] - 217;Vendor Compliance Validation;Clicked on search button;Pass 
+2021-05-06 12:48:16,882 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_12_48_15.png 
+2021-05-06 12:48:16,882 [pool-1-thread-1] [INFO] [WowReport:272] - 218;Vendor Compliance Validation; Verified that the party id in the search result;Pass_ScreenShot 
+2021-05-06 12:48:24,947 [pool-1-thread-1] [INFO] [WowReport:272] - 219;Vendor Compliance Validation;Clicked on Logout Icon ;Pass 
+2021-05-06 12:48:33,540 [pool-1-thread-1] [INFO] [WowReport:272] - 220;Vendor Compliance Validation;Logout from the Application by Clicked on Logout Link;Pass 
+2021-05-06 12:48:33,840 [pool-1-thread-1] [INFO] [WowReport:272] - 221;Login Page;Navigated to Url : https://wow.tradestoneasp.net/woolworthstest/;Pass 
+2021-05-06 12:48:47,942 [pool-1-thread-1] [INFO] [WowReport:272] - 222;PLMS Login;Entered UserName;Pass 
+2021-05-06 12:48:48,013 [pool-1-thread-1] [INFO] [WowReport:272] - 223;PLMS Login;Entered Password;Pass 
+2021-05-06 12:48:56,089 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: PLMS Login  Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\PLMS_Login__05_06_2021_12_48_54.png 
+2021-05-06 12:48:56,089 [pool-1-thread-1] [INFO] [WowReport:272] - 224;PLMS Login ;Clicked on PLMS login button ;Pass_ScreenShot 
+2021-05-06 12:49:01,327 [pool-1-thread-1] [INFO] [WowReport:272] - 225;Vendor Compliance Validation;Key In the value for party ID;Pass 
+2021-05-06 12:49:06,539 [pool-1-thread-1] [INFO] [WowReport:272] - 226;Vendor Compliance Validation;Clicked on search button;Pass 
+2021-05-06 12:49:12,962 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_12_49_11.png 
+2021-05-06 12:49:12,962 [pool-1-thread-1] [INFO] [WowReport:272] - 227;Vendor Compliance Validation; Verified that the party id in the search result;Pass_ScreenShot 
+2021-05-06 12:49:21,034 [pool-1-thread-1] [INFO] [WowReport:272] - 228;Vendor Compliance Validation;Clicked on Logout Icon ;Pass 
+2021-05-06 12:49:29,568 [pool-1-thread-1] [INFO] [WowReport:272] - 229;Vendor Compliance Validation;Logout from the Application by Clicked on Logout Link;Pass 
+2021-05-06 12:49:29,862 [pool-1-thread-1] [INFO] [WowReport:272] - 230;Login Page;Navigated to Url : https://wow.tradestoneasp.net/woolworthstest/;Pass 
+2021-05-06 12:49:43,958 [pool-1-thread-1] [INFO] [WowReport:272] - 231;PLMS Login;Entered UserName;Pass 
+2021-05-06 12:49:44,045 [pool-1-thread-1] [INFO] [WowReport:272] - 232;PLMS Login;Entered Password;Pass 
+2021-05-06 12:49:51,563 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: PLMS Login  Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\PLMS_Login__05_06_2021_12_49_50.png 
+2021-05-06 12:49:51,563 [pool-1-thread-1] [INFO] [WowReport:272] - 233;PLMS Login ;Clicked on PLMS login button ;Pass_ScreenShot 
+2021-05-06 12:49:52,406 [pool-1-thread-1] [INFO] [WowReport:272] - 234;Vendor Compliance Validation;Clicked on Vendor Management;Pass 
+2021-05-06 12:49:57,525 [pool-1-thread-1] [INFO] [WowReport:272] - 235;Vendor Compliance Validation;Navigated to party link screen;Pass 
+2021-05-06 12:50:02,672 [pool-1-thread-1] [INFO] [WowReport:272] - 236;Vendor Compliance Validation;Key In the value for Site ID;Pass 
+2021-05-06 12:50:05,777 [pool-1-thread-1] [INFO] [WowReport:272] - 237;Vendor Compliance Validation;Clicked on Search button;Pass 
+2021-05-06 12:50:15,876 [pool-1-thread-1] [INFO] [WowReport:272] - 238;Vendor Compliance Validation;Able to view the Site id and Clicked on the same;Pass 
+2021-05-06 12:50:30,413 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_12_50_28.png 
+2021-05-06 12:50:30,413 [pool-1-thread-1] [INFO] [WowReport:272] - 239;Vendor Compliance Validation;Clicked on more action;Pass_ScreenShot 
+2021-05-06 12:50:30,490 [pool-1-thread-1] [INFO] [WowReport:272] - 240;Vendor Compliance Validation;Able to view the Accept party and Clicked on it;Pass 
+2021-05-06 12:50:36,926 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_12_50_35.png 
+2021-05-06 12:50:36,926 [pool-1-thread-1] [INFO] [WowReport:272] - 241;Vendor Compliance Validation;The onBoard status is changed as ACCEPTED;Pass_ScreenShot 
+2021-05-06 12:50:55,761 [pool-1-thread-1] [INFO] [WowReport:272] - 242;Vendor Compliance Validation;Clicked on Vendor Management;Pass 
+2021-05-06 12:51:00,861 [pool-1-thread-1] [INFO] [WowReport:272] - 243;Vendor Compliance Validation;Navigated to party link screen;Pass 
+2021-05-06 12:51:06,023 [pool-1-thread-1] [INFO] [WowReport:272] - 244;Vendor Compliance Validation;Key In the value for Site ID;Pass 
+2021-05-06 12:51:09,105 [pool-1-thread-1] [INFO] [WowReport:272] - 245;Vendor Compliance Validation;Clicked on Search button;Pass 
+2021-05-06 12:51:19,184 [pool-1-thread-1] [INFO] [WowReport:272] - 246;Vendor Compliance Validation;Able to view the Site id and Clicked on the same;Pass 
+2021-05-06 12:51:33,736 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_12_51_32.png 
+2021-05-06 12:51:33,736 [pool-1-thread-1] [INFO] [WowReport:272] - 247;Vendor Compliance Validation;Clicked on more action;Pass_ScreenShot 
+2021-05-06 12:51:33,835 [pool-1-thread-1] [INFO] [WowReport:272] - 248;Vendor Compliance Validation;Able to view the Accept as Trading partner and Clicked on it;Pass 
+2021-05-06 12:51:40,262 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_12_51_38.png 
+2021-05-06 12:51:40,262 [pool-1-thread-1] [INFO] [WowReport:272] - 249;Vendor Compliance Validation;The onBoard status is changed as TRADING PARTNER;Pass_ScreenShot 
+2021-05-06 12:51:58,353 [pool-1-thread-1] [INFO] [WowReport:272] - 250;Vendor Compliance Validation;Clicked on Logout Icon ;Pass 
+2021-05-06 12:52:11,980 [pool-1-thread-1] [INFO] [WowReport:272] - 251;Vendor Compliance Validation;Logout from the Application by Clicked on Logout Link;Pass 
+2021-05-06 12:52:12,253 [pool-1-thread-1] [INFO] [WowReport:272] - 252;Login Page;Navigated to Url : https://wow.tradestoneasp.net/woolworthstest/;Pass 
+2021-05-06 12:52:26,370 [pool-1-thread-1] [INFO] [WowReport:272] - 253;PLMS Login;Entered UserName;Pass 
+2021-05-06 12:52:26,435 [pool-1-thread-1] [INFO] [WowReport:272] - 254;PLMS Login;Entered Password;Pass 
+2021-05-06 12:59:13,012 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: PLMS Login  Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\PLMS_Login__05_06_2021_12_52_37.png 
+2021-05-06 12:59:13,012 [pool-1-thread-1] [INFO] [WowReport:272] - 255;PLMS Login ;Clicked on PLMS login button ;Pass_ScreenShot 
+2021-05-06 12:59:19,681 [pool-1-thread-1] [INFO] [WowReport:272] - 256;Vendor Compliance Validation;Clicked on Vendor Management;Pass 
+2021-05-06 12:59:24,787 [pool-1-thread-1] [INFO] [WowReport:272] - 257;Vendor Compliance Validation;Navigated to party link screen;Pass 
+2021-05-06 12:59:30,016 [pool-1-thread-1] [INFO] [WowReport:272] - 258;Vendor Compliance Validation;Clicked on search button;Pass 
+2021-05-06 12:59:40,101 [pool-1-thread-1] [INFO] [WowReport:272] - 259;Vendor Compliance Validation;Able to view the supplier id and Clicked on the same;Pass 
+2021-05-06 12:59:49,942 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_12_59_48.png 
+2021-05-06 12:59:49,942 [pool-1-thread-1] [INFO] [WowReport:272] - 260;Vendor Compliance Validation;Clicked on more action;Pass_ScreenShot 
+2021-05-06 12:59:55,025 [pool-1-thread-1] [INFO] [WowReport:272] - 261;Vendor Compliance Validation;Able to view the Submit Pre Audit info and Clicked on it;Pass 
+2021-05-06 13:00:08,099 [pool-1-thread-1] [INFO] [WowReport:272] - 262;Vendor Compliance Validation;Clicked on Logout Icon ;Pass 
+2021-05-06 13:00:16,728 [pool-1-thread-1] [INFO] [WowReport:272] - 263;Vendor Compliance Validation;Logout from the Application by Clicked on Logout Link;Pass 
+2021-05-06 13:00:17,010 [pool-1-thread-1] [INFO] [WowReport:272] - 264;Login Page;Navigated to Url : https://wow.tradestoneasp.net/woolworthstest/;Pass 
+2021-05-06 13:00:31,100 [pool-1-thread-1] [INFO] [WowReport:272] - 265;PLMS Login;Entered UserName;Pass 
+2021-05-06 13:00:31,168 [pool-1-thread-1] [INFO] [WowReport:272] - 266;PLMS Login;Entered Password;Pass 
+2021-05-06 13:00:38,692 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: PLMS Login  Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\PLMS_Login__05_06_2021_13_00_37.png 
+2021-05-06 13:00:38,692 [pool-1-thread-1] [INFO] [WowReport:272] - 267;PLMS Login ;Clicked on PLMS login button ;Pass_ScreenShot 
+2021-05-06 13:00:44,551 [pool-1-thread-1] [INFO] [WowReport:272] - 268;Vendor Compliance Validation;Able to view the Factory Onboarding Response and Clicked on it;Pass 
+2021-05-06 13:00:49,706 [pool-1-thread-1] [INFO] [WowReport:272] - 269;Vendor Compliance Validation;Key In the value for site Id successfully;Pass 
+2021-05-06 13:00:54,919 [pool-1-thread-1] [INFO] [WowReport:272] - 270;Vendor Compliance Validation;Clicked on search button;Pass 
+2021-05-06 13:01:01,676 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_01_00.png 
+2021-05-06 13:01:01,676 [pool-1-thread-1] [INFO] [WowReport:272] - 271;Vendor Compliance Validation;able to view the party id in search result and clicked on it;Pass_ScreenShot 
+2021-05-06 13:01:11,194 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_01_09.png 
+2021-05-06 13:01:11,194 [pool-1-thread-1] [INFO] [WowReport:272] - 272;Vendor Compliance Validation;Clicked on more action;Pass_ScreenShot 
+2021-05-06 13:01:12,897 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_01_11.png 
+2021-05-06 13:01:12,897 [pool-1-thread-1] [INFO] [WowReport:272] - 273;Vendor Compliance Validation;Able to view the request pre audit site visit and Clicked on it;Pass_ScreenShot 
+2021-05-06 13:01:25,984 [pool-1-thread-1] [INFO] [WowReport:272] - 274;Vendor Compliance Validation;Clicked on Logout Icon ;Pass 
+2021-05-06 13:01:34,662 [pool-1-thread-1] [INFO] [WowReport:272] - 275;Vendor Compliance Validation;Logout from the Application by Clicked on Logout Link;Pass 
+2021-05-06 13:01:35,010 [pool-1-thread-1] [INFO] [WowReport:272] - 276;Login Page;Navigated to Url : https://wow.tradestoneasp.net/woolworthstest/;Pass 
+2021-05-06 13:01:49,102 [pool-1-thread-1] [INFO] [WowReport:272] - 277;PLMS Login;Entered UserName;Pass 
+2021-05-06 13:01:49,170 [pool-1-thread-1] [INFO] [WowReport:272] - 278;PLMS Login;Entered Password;Pass 
+2021-05-06 13:01:57,097 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: PLMS Login  Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\PLMS_Login__05_06_2021_13_01_55.png 
+2021-05-06 13:01:57,097 [pool-1-thread-1] [INFO] [WowReport:272] - 279;PLMS Login ;Clicked on PLMS login button ;Pass_ScreenShot 
+2021-05-06 13:02:02,213 [pool-1-thread-1] [INFO] [WowReport:272] - 280;Vendor Compliance Validation;Clicked on Vendor Management;Pass 
+2021-05-06 13:02:07,302 [pool-1-thread-1] [INFO] [WowReport:272] - 281;Vendor Compliance Validation;Navigated to party link screen;Pass 
+2021-05-06 13:02:12,436 [pool-1-thread-1] [INFO] [WowReport:272] - 282;Vendor Compliance Validation;Key In the value for Site ID;Pass 
+2021-05-06 13:02:15,523 [pool-1-thread-1] [INFO] [WowReport:272] - 283;Vendor Compliance Validation;Clicked on Search button;Pass 
+2021-05-06 13:02:25,614 [pool-1-thread-1] [INFO] [WowReport:272] - 284;Vendor Compliance Validation;Able to view the Site id and Clicked on the same;Pass 
+2021-05-06 13:02:32,230 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_02_30.png 
+2021-05-06 13:02:32,230 [pool-1-thread-1] [INFO] [WowReport:272] - 285;Vendor Compliance Validation;Selected the Pre Audit visit outcome;Pass_ScreenShot 
+2021-05-06 13:02:35,315 [pool-1-thread-1] [INFO] [WowReport:272] - 286;Vendor Compliance Validation;Clicked on Save button;Pass 
+2021-05-06 13:02:44,834 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_02_43.png 
+2021-05-06 13:02:44,834 [pool-1-thread-1] [INFO] [WowReport:272] - 287;Vendor Compliance Validation;Clicked on more action;Pass_ScreenShot 
+2021-05-06 13:02:51,430 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_02_49.png 
+2021-05-06 13:02:51,430 [pool-1-thread-1] [INFO] [WowReport:272] - 288;Vendor Compliance Validation;Able to view the Pre audit visit Complete and Clicked on it;Pass_ScreenShot 
+2021-05-06 13:03:04,517 [pool-1-thread-1] [INFO] [WowReport:272] - 289;Vendor Compliance Validation;Clicked on Logout Icon ;Pass 
+2021-05-06 13:03:13,133 [pool-1-thread-1] [INFO] [WowReport:272] - 290;Vendor Compliance Validation;Logout from the Application by Clicked on Logout Link;Pass 
+2021-05-06 13:03:13,442 [pool-1-thread-1] [INFO] [WowReport:272] - 291;Login Page;Navigated to Url : https://wow.tradestoneasp.net/woolworthstest/;Pass 
+2021-05-06 13:03:27,530 [pool-1-thread-1] [INFO] [WowReport:272] - 292;PLMS Login;Entered UserName;Pass 
+2021-05-06 13:03:27,598 [pool-1-thread-1] [INFO] [WowReport:272] - 293;PLMS Login;Entered Password;Pass 
+2021-05-06 13:03:35,111 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: PLMS Login  Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\PLMS_Login__05_06_2021_13_03_33.png 
+2021-05-06 13:03:35,111 [pool-1-thread-1] [INFO] [WowReport:272] - 294;PLMS Login ;Clicked on PLMS login button ;Pass_ScreenShot 
+2021-05-06 13:03:41,135 [pool-1-thread-1] [INFO] [WowReport:272] - 295;Vendor Compliance Validation;Able to view the Factory Pending Approval and Clicked on the same;Pass 
+2021-05-06 13:03:46,290 [pool-1-thread-1] [INFO] [WowReport:272] - 296;Vendor Compliance Validation;Key In the value for party ID;Pass 
+2021-05-06 13:03:51,515 [pool-1-thread-1] [INFO] [WowReport:272] - 297;Vendor Compliance Validation;Clicked on search button;Pass 
+2021-05-06 13:03:56,657 [pool-1-thread-1] [INFO] [WowReport:272] - 298;Vendor Compliance Validation;Able to view the party ID and Clicked on the same;Pass 
+2021-05-06 13:04:06,188 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_04_04.png 
+2021-05-06 13:04:06,188 [pool-1-thread-1] [INFO] [WowReport:272] - 299;Vendor Compliance Validation;Clicked on more action;Pass_ScreenShot 
+2021-05-06 13:04:11,287 [pool-1-thread-1] [INFO] [WowReport:272] - 300;Vendor Compliance Validation;Able to view the Accept party and Clicked on it;Pass 
+2021-05-06 13:04:17,749 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_04_16.png 
+2021-05-06 13:04:17,749 [pool-1-thread-1] [INFO] [WowReport:272] - 301;Vendor Compliance Validation;The onBoard status is changed as ACCEPTED;Pass_ScreenShot 
+2021-05-06 13:04:24,362 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_04_22.png 
+2021-05-06 13:04:24,362 [pool-1-thread-1] [INFO] [WowReport:272] - 302;Vendor Compliance Validation;Selected the Frequency;Pass_ScreenShot 
+2021-05-06 13:04:27,454 [pool-1-thread-1] [INFO] [WowReport:272] - 303;Vendor Compliance Validation;Clicked on Save button;Pass 
+2021-05-06 13:04:41,980 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_04_40.png 
+2021-05-06 13:04:41,980 [pool-1-thread-1] [INFO] [WowReport:272] - 304;Vendor Compliance Validation;Clicked on more action;Pass_ScreenShot 
+2021-05-06 13:04:47,064 [pool-1-thread-1] [INFO] [WowReport:272] - 305;Vendor Compliance Validation;Able to view the schdule Audits and Clicked on it;Pass 
+2021-05-06 13:04:53,991 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_04_52.png 
+2021-05-06 13:04:53,991 [pool-1-thread-1] [INFO] [WowReport:272] - 306;Vendor Compliance Validation;Able to view the Audit tab and Clicked on it;Pass_ScreenShot 
+2021-05-06 13:05:00,697 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_04_59.png 
+2021-05-06 13:05:00,697 [pool-1-thread-1] [INFO] [WowReport:272] - 307;Vendor Compliance Validation;Selected the Audit Value;Pass_ScreenShot 
+2021-05-06 13:05:07,295 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_05_05.png 
+2021-05-06 13:05:07,295 [pool-1-thread-1] [INFO] [WowReport:272] - 308;Vendor Compliance Validation;Selected the Scheme Value;Pass_ScreenShot 
+2021-05-06 13:05:08,879 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_05_07.png 
+2021-05-06 13:05:08,879 [pool-1-thread-1] [INFO] [WowReport:272] - 309;Vendor Compliance Validation;Selected the Audit Classification Value;Pass_ScreenShot 
+2021-05-06 13:05:14,257 [pool-1-thread-1] [INFO] [WowReport:272] - 310;Vendor Compliance Validation;Clicked on Search button;Pass 
+2021-05-06 13:05:23,773 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_05_22.png 
+2021-05-06 13:05:23,773 [pool-1-thread-1] [INFO] [WowReport:272] - 311;Vendor Compliance Validation;Clicked on more action;Pass_ScreenShot 
+2021-05-06 13:05:42,010 [pool-1-thread-1] [INFO] [WowReport:272] - 312;Vendor Compliance Validation;Clicked on Logout Icon ;Pass 
+2021-05-06 13:05:50,741 [pool-1-thread-1] [INFO] [WowReport:272] - 313;Vendor Compliance Validation;Logout from the Application by Clicked on Logout Link;Pass 
+2021-05-06 13:05:51,068 [pool-1-thread-1] [INFO] [WowReport:272] - 314;Login Page;Navigated to Url : https://wow.tradestoneasp.net/woolworthstest/;Pass 
+2021-05-06 13:06:05,152 [pool-1-thread-1] [INFO] [WowReport:272] - 315;PLMS Login;Entered UserName;Pass 
+2021-05-06 13:06:05,222 [pool-1-thread-1] [INFO] [WowReport:272] - 316;PLMS Login;Entered Password;Pass 
+2021-05-06 13:06:12,739 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: PLMS Login  Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\PLMS_Login__05_06_2021_13_06_11.png 
+2021-05-06 13:06:12,739 [pool-1-thread-1] [INFO] [WowReport:272] - 317;PLMS Login ;Clicked on PLMS login button ;Pass_ScreenShot 
+2021-05-06 13:06:18,564 [pool-1-thread-1] [INFO] [WowReport:272] - 318;Vendor Compliance Validation;Able to view the Audit Request and Clicked on it;Pass 
+2021-05-06 13:06:23,691 [pool-1-thread-1] [INFO] [WowReport:272] - 319;Vendor Compliance Validation;Key In the value for Company;Pass 
+2021-05-06 13:06:28,331 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_06_26.png 
+2021-05-06 13:06:28,332 [pool-1-thread-1] [INFO] [WowReport:272] - 320;Vendor Compliance Validation;Clicked on Search for Process;Pass_ScreenShot 
+2021-05-06 13:06:33,455 [pool-1-thread-1] [INFO] [WowReport:272] - 321;Vendor Compliance Validation;Able to view the Site ID and Clicked on the same;Pass 
+2021-05-06 13:06:43,549 [pool-1-thread-1] [INFO] [WowReport:272] - 322;Vendor Compliance Validation;Able to view the Audit tab and Clicked on it;Pass 
+2021-05-06 13:06:49,308 [pool-1-thread-1] [INFO] [WowReport:272] - 323;Vendor Compliance Validation;Key In the value for Author Name;Pass 
+2021-05-06 13:06:49,846 [pool-1-thread-1] [INFO] [WowReport:272] - 324;Vendor Compliance Validation;Key In the value for Author Id;Pass 
+2021-05-06 13:06:50,553 [pool-1-thread-1] [INFO] [WowReport:272] - 325;Vendor Compliance Validation;Key In the value for Schedule Date;Pass 
+2021-05-06 13:06:50,673 [pool-1-thread-1] [INFO] [WowReport:272] - 326;Vendor Compliance Validation;Audit Information updated by Clicked on Save button;Pass 
+2021-05-06 13:07:00,222 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_06_58.png 
+2021-05-06 13:07:00,222 [pool-1-thread-1] [INFO] [WowReport:272] - 327;Vendor Compliance Validation;Clicked on more action;Pass_ScreenShot 
+2021-05-06 13:07:05,322 [pool-1-thread-1] [INFO] [WowReport:272] - 328;Vendor Compliance Validation;Able to view the Book Audit Visit and Clicked on it;Pass 
+2021-05-06 13:07:11,796 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_07_10.png 
+2021-05-06 13:07:11,796 [pool-1-thread-1] [INFO] [WowReport:272] - 329;Vendor Compliance Validation;Verified the Current Audit Event is changed as BOOKED;Pass_ScreenShot 
+2021-05-06 13:07:16,917 [pool-1-thread-1] [INFO] [WowReport:272] - 330;Vendor Compliance Validation;Clicked on Vendor Management;Pass 
+2021-05-06 13:07:22,765 [pool-1-thread-1] [INFO] [WowReport:272] - 331;Vendor Compliance Validation;Clicked on Dashboard link;Pass 
+2021-05-06 13:07:27,880 [pool-1-thread-1] [INFO] [WowReport:272] - 332;Vendor Compliance Validation;Clicked on Audit Booked Link;Pass 
+2021-05-06 13:07:32,973 [pool-1-thread-1] [INFO] [WowReport:272] - 333;Vendor Compliance Validation;Key In the value for Company;Pass 
+2021-05-06 13:07:37,595 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_07_36.png 
+2021-05-06 13:07:37,595 [pool-1-thread-1] [INFO] [WowReport:272] - 334;Vendor Compliance Validation;Clicked on Search for Process;Pass_ScreenShot 
+2021-05-06 13:07:42,717 [pool-1-thread-1] [INFO] [WowReport:272] - 335;Vendor Compliance Validation;Able to view the Site ID and Clicked on the same;Pass 
+2021-05-06 13:07:47,811 [pool-1-thread-1] [INFO] [WowReport:272] - 336;Vendor Compliance Validation;Able to view the Audit tab and Clicked on it;Pass 
+2021-05-06 13:07:53,668 [pool-1-thread-1] [INFO] [WowReport:272] - 337;Vendor Compliance Validation;Key In the value for Actual Audit Date;Pass 
+2021-05-06 13:08:03,877 [pool-1-thread-1] [INFO] [WowReport:272] - 338;Vendor Compliance Validation;Able to view the Audit tab and Clicked on it;Pass 
+2021-05-06 13:08:14,112 [pool-1-thread-1] [INFO] [WowReport:272] - 339;Vendor Compliance Validation;Key In the input for clause value;Pass 
+2021-05-06 13:08:15,748 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_08_14.png 
+2021-05-06 13:08:15,748 [pool-1-thread-1] [INFO] [WowReport:272] - 340;Vendor Compliance Validation;Selected the severity Value;Pass_ScreenShot 
+2021-05-06 13:08:17,401 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_08_15.png 
+2021-05-06 13:08:17,401 [pool-1-thread-1] [INFO] [WowReport:272] - 341;Vendor Compliance Validation;Selected the result Value;Pass_ScreenShot 
+2021-05-06 13:08:19,086 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_08_17.png 
+2021-05-06 13:08:19,086 [pool-1-thread-1] [INFO] [WowReport:272] - 342;Vendor Compliance Validation;Selected the CapCar Status Value;Pass_ScreenShot 
+2021-05-06 13:08:30,771 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_08_29.png 
+2021-05-06 13:08:30,771 [pool-1-thread-1] [INFO] [WowReport:272] - 343;Vendor Compliance Validation;Selected the review method Value;Pass_ScreenShot 
+2021-05-06 13:08:30,872 [pool-1-thread-1] [INFO] [WowReport:272] - 344;Vendor Compliance Validation;Saved the Audit details By clicked on Save button;Pass 
+2021-05-06 13:08:40,430 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_08_38.png 
+2021-05-06 13:08:40,430 [pool-1-thread-1] [INFO] [WowReport:272] - 345;Vendor Compliance Validation;Clicked on more action;Pass_ScreenShot 
+2021-05-06 13:08:45,533 [pool-1-thread-1] [INFO] [WowReport:272] - 346;Vendor Compliance Validation;Able to view the Submit Audit Result and Clicked on it;Pass 
+2021-05-06 13:08:52,014 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_08_50.png 
+2021-05-06 13:08:52,014 [pool-1-thread-1] [INFO] [WowReport:272] - 347;Vendor Compliance Validation;Verified the Current Audit Event is changed as AUDIT SUBMITTED;Pass_ScreenShot 
+2021-05-06 13:08:58,453 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_08_57.png 
+2021-05-06 13:08:58,453 [pool-1-thread-1] [INFO] [WowReport:272] - 348;Vendor Compliance Validation;The Current Audit Event is changed as AMBER;Pass_ScreenShot 
+2021-05-06 13:09:11,553 [pool-1-thread-1] [INFO] [WowReport:272] - 349;Vendor Compliance Validation;Clicked on Logout Icon ;Pass 
+2021-05-06 13:09:20,274 [pool-1-thread-1] [INFO] [WowReport:272] - 350;Vendor Compliance Validation;Logout from the Application by Clicked on Logout Link;Pass 
+2021-05-06 13:09:20,592 [pool-1-thread-1] [INFO] [WowReport:272] - 351;Login Page;Navigated to Url : https://wow.tradestoneasp.net/woolworthstest/;Pass 
+2021-05-06 13:09:34,707 [pool-1-thread-1] [INFO] [WowReport:272] - 352;PLMS Login;Entered UserName;Pass 
+2021-05-06 13:09:34,790 [pool-1-thread-1] [INFO] [WowReport:272] - 353;PLMS Login;Entered Password;Pass 
+2021-05-06 13:09:42,504 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: PLMS Login  Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\PLMS_Login__05_06_2021_13_09_40.png 
+2021-05-06 13:09:42,504 [pool-1-thread-1] [INFO] [WowReport:272] - 354;PLMS Login ;Clicked on PLMS login button ;Pass_ScreenShot 
+2021-05-06 13:09:47,618 [pool-1-thread-1] [INFO] [WowReport:272] - 355;Vendor Compliance Validation;Clicked on Vendor Management;Pass 
+2021-05-06 13:09:52,712 [pool-1-thread-1] [INFO] [WowReport:272] - 356;Vendor Compliance Validation;Navigated to party link screen;Pass 
+2021-05-06 13:09:57,864 [pool-1-thread-1] [INFO] [WowReport:272] - 357;Vendor Compliance Validation;Key In the value for Site ID;Pass 
+2021-05-06 13:10:00,960 [pool-1-thread-1] [INFO] [WowReport:272] - 358;Vendor Compliance Validation;Clicked on Search button;Pass 
+2021-05-06 13:10:11,042 [pool-1-thread-1] [INFO] [WowReport:272] - 359;Vendor Compliance Validation;Able to view the Site id and Clicked on the same;Pass 
+2021-05-06 13:10:16,148 [pool-1-thread-1] [INFO] [WowReport:272] - 360;Vendor Compliance Validation;Able to view the Audit tab and Clicked on it;Pass 
+2021-05-06 13:10:25,687 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_10_24.png 
+2021-05-06 13:10:25,687 [pool-1-thread-1] [INFO] [WowReport:272] - 361;Vendor Compliance Validation;Clicked on more action;Pass_ScreenShot 
+2021-05-06 13:10:25,779 [pool-1-thread-1] [INFO] [WowReport:272] - 362;Vendor Compliance Validation;Able to view the Accept Audit Result and Clicked on it;Pass 
+2021-05-06 13:10:32,211 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_10_30.png 
+2021-05-06 13:10:32,211 [pool-1-thread-1] [INFO] [WowReport:272] - 363;Vendor Compliance Validation;Verified the Current Audit Event is changed as AUDIT ACCEPTED;Pass_ScreenShot 
+2021-05-06 13:10:45,306 [pool-1-thread-1] [INFO] [WowReport:272] - 364;Vendor Compliance Validation;Clicked on Logout Icon ;Pass 
+2021-05-06 13:10:53,878 [pool-1-thread-1] [INFO] [WowReport:272] - 365;Vendor Compliance Validation;Logout from the Application by Clicked on Logout Link;Pass 
+2021-05-06 13:10:54,170 [pool-1-thread-1] [INFO] [WowReport:272] - 366;Login Page;Navigated to Url : https://wow.tradestoneasp.net/woolworthstest/;Pass 
+2021-05-06 13:11:08,254 [pool-1-thread-1] [INFO] [WowReport:272] - 367;PLMS Login;Entered UserName;Pass 
+2021-05-06 13:11:08,334 [pool-1-thread-1] [INFO] [WowReport:272] - 368;PLMS Login;Entered Password;Pass 
+2021-05-06 13:11:15,844 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: PLMS Login  Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\PLMS_Login__05_06_2021_13_11_14.png 
+2021-05-06 13:11:15,844 [pool-1-thread-1] [INFO] [WowReport:272] - 369;PLMS Login ;Clicked on PLMS login button ;Pass_ScreenShot 
+2021-05-06 13:11:21,718 [pool-1-thread-1] [INFO] [WowReport:272] - 370;Vendor Compliance Validation;Able to view the awaiting Car Cap Closure and Clicked on it;Pass 
+2021-05-06 13:11:26,846 [pool-1-thread-1] [INFO] [WowReport:272] - 371;Vendor Compliance Validation;Key In the value for site ID;Pass 
+2021-05-06 13:11:32,058 [pool-1-thread-1] [INFO] [WowReport:272] - 372;Vendor Compliance Validation;Clicked on search button;Pass 
+2021-05-06 13:11:38,728 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_11_37.png 
+2021-05-06 13:11:38,728 [pool-1-thread-1] [INFO] [WowReport:272] - 373;Vendor Compliance Validation;Able to view the party id in search result and clicked on it;Pass_ScreenShot 
+2021-05-06 13:11:48,817 [pool-1-thread-1] [INFO] [WowReport:272] - 374;Vendor Compliance Validation;Able to view the Audit tab and Clicked on it;Pass 
+2021-05-06 13:11:58,343 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_11_56.png 
+2021-05-06 13:11:58,343 [pool-1-thread-1] [INFO] [WowReport:272] - 375;Vendor Compliance Validation;Clicked on more action;Pass_ScreenShot 
+2021-05-06 13:12:03,449 [pool-1-thread-1] [INFO] [WowReport:272] - 376;Vendor Compliance Validation;Able to view the submit cap car closure and Clicked on it;Pass 
+2021-05-06 13:12:09,868 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_12_08.png 
+2021-05-06 13:12:09,868 [pool-1-thread-1] [INFO] [WowReport:272] - 377;Vendor Compliance Validation;Verified the Current Audit Event is changed as AUDIT SUBMITTED;Pass_ScreenShot 
+2021-05-06 13:12:16,494 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_12_15.png 
+2021-05-06 13:12:16,494 [pool-1-thread-1] [INFO] [WowReport:272] - 378;Vendor Compliance Validation;Selected the CapCar Status Value;Pass_ScreenShot 
+2021-05-06 13:12:21,585 [pool-1-thread-1] [INFO] [WowReport:272] - 379;Vendor Compliance Validation;Saved the audit informatoin by clicked on Save button;Pass 
+2021-05-06 13:12:34,672 [pool-1-thread-1] [INFO] [WowReport:272] - 380;Vendor Compliance Validation;Clicked on Logout Icon ;Pass 
+2021-05-06 13:12:43,284 [pool-1-thread-1] [INFO] [WowReport:272] - 381;Vendor Compliance Validation;Logout from the Application by Clicked on Logout Link;Pass 
+2021-05-06 13:12:43,572 [pool-1-thread-1] [INFO] [WowReport:272] - 382;Login Page;Navigated to Url : https://wow.tradestoneasp.net/woolworthstest/;Pass 
+2021-05-06 13:12:57,665 [pool-1-thread-1] [INFO] [WowReport:272] - 383;PLMS Login;Entered UserName;Pass 
+2021-05-06 13:12:57,734 [pool-1-thread-1] [INFO] [WowReport:272] - 384;PLMS Login;Entered Password;Pass 
+2021-05-06 13:13:05,229 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: PLMS Login  Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\PLMS_Login__05_06_2021_13_13_03.png 
+2021-05-06 13:13:05,229 [pool-1-thread-1] [INFO] [WowReport:272] - 385;PLMS Login ;Clicked on PLMS login button ;Pass_ScreenShot 
+2021-05-06 13:13:10,359 [pool-1-thread-1] [INFO] [WowReport:272] - 386;Vendor Compliance Validation;Able to view the awaiting Car Cap Closure Appr and Clicked on it;Pass 
+2021-05-06 13:13:15,547 [pool-1-thread-1] [INFO] [WowReport:272] - 387;Vendor Compliance Validation;Key In the value for site ID;Pass 
+2021-05-06 13:13:20,796 [pool-1-thread-1] [INFO] [WowReport:272] - 388;Vendor Compliance Validation;Clicked on search button;Pass 
+2021-05-06 13:13:27,427 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_13_25.png 
+2021-05-06 13:13:27,427 [pool-1-thread-1] [INFO] [WowReport:272] - 389;Vendor Compliance Validation;Able to view the party id in search result and clicked on it;Pass_ScreenShot 
+2021-05-06 13:13:32,518 [pool-1-thread-1] [INFO] [WowReport:272] - 390;Vendor Compliance Validation;Able to view the Audit tab and Clicked on it;Pass 
+2021-05-06 13:13:42,029 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_13_40.png 
+2021-05-06 13:13:42,029 [pool-1-thread-1] [INFO] [WowReport:272] - 391;Vendor Compliance Validation;Clicked on more action;Pass_ScreenShot 
+2021-05-06 13:13:47,135 [pool-1-thread-1] [INFO] [WowReport:272] - 392;Vendor Compliance Validation;Able to view the Accept Audit Result and Clicked on it;Pass 
+2021-05-06 13:13:53,562 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_13_52.png 
+2021-05-06 13:13:53,562 [pool-1-thread-1] [INFO] [WowReport:272] - 393;Vendor Compliance Validation;Verified the Current Audit Event is changed as AUDIT ACCEPTED;Pass_ScreenShot 
+2021-05-06 13:13:59,987 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_13_58.png 
+2021-05-06 13:13:59,987 [pool-1-thread-1] [INFO] [WowReport:272] - 394;Vendor Compliance Validation;The Audit status is changed as GREEN;Pass_ScreenShot 
+2021-05-06 13:14:01,419 [pool-1-thread-1] [INFO] [WowReport:214] - Screenshot taken for the Passed Test step: Vendor Compliance Validation Path: C:\Rc_Development\PLMS_International\CustReport\Plmsv_Intl_VendorCompliance_05_06_2021_12_27_44\Vendor_Compliance_Validation_05_06_2021_13_14_00.png 
+2021-05-06 13:14:01,419 [pool-1-thread-1] [INFO] [WowReport:272] - 395;Vendor Compliance Validation;The Audit status is changed as GREEN;Pass_ScreenShot 
+2021-05-06 13:14:14,537 [pool-1-thread-1] [INFO] [WowReport:272] - 396;Vendor Compliance Validation;Clicked on Logout Icon ;Pass 
+2021-05-06 13:14:23,192 [pool-1-thread-1] [INFO] [WowReport:272] - 397;Vendor Compliance Validation;Logout from the Application by Clicked on Logout Link;Pass 
+2021-05-06 13:14:23,192 [pool-1-thread-1] [INFO] [WowReport:287] - *** Execution Ends *** 
+2021-05-06 13:14:23,985 [pool-1-thread-1] [INFO] [WowReport:302] - Total Passed Steps:397 
+2021-05-06 13:14:23,986 [pool-1-thread-1] [INFO] [WowReport:306] - Total Failed Steps:0 
+2021-05-06 13:14:23,986 [pool-1-thread-1] [INFO] [WowReport:310] - Total Informations:0 
+2021-05-06 13:14:23,986 [pool-1-thread-1] [INFO] [WowReport:314] - Total Warnings:0 
+2021-05-06 13:14:23,986 [pool-1-thread-1] [INFO] [WowReport:317] - Please find the Test report for the Test case in the Path: Plmsv_Intl_VendorCompliance_CH_05_06_2021_12_27_44.html 
+2021-05-06 13:14:23,989 [pool-1-thread-1] [INFO] [WowReport:504] - Called overallStatusReport  
+2021-05-06 13:14:23,991 [pool-1-thread-1] [INFO] [WowReport:597] - Please find your overall results in the path: C:/Rc_Development/PLMS_International/CustReport/overallStatusReport.html 
+2022-06-18 21:14:07,074 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-06-18 21:14:07,118 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-06-18 21:14:07,171 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_06_18_2022_21_14_07\ 
+2022-06-18 21:14:07,173 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-06-18 21:14:07,184 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-06-18 21:14:20,257 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-06-18 21:14:47,985 [pool-1-thread-1] [INFO] [WowReport:228] - Screenshot taken for the Failed Test step: AUT Login  Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_18_2022_21_14_07\AUT_Login__06_18_2022_21_14_45.png 
+2022-06-18 21:14:49,820 [pool-1-thread-1] [INFO] [WowReport:260] - 2;AUT Login ;Username/Password is incorrect.Login failed;Fail 
+2022-06-18 21:15:13,950 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_18_2022_21_14_07\Create_new_user_account_06_18_2022_21_14_57.png 
+2022-06-18 21:15:13,951 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-06-18 21:15:15,806 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Entered the user email value;Pass 
+2022-06-18 21:15:23,273 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_18_2022_21_14_07\Create_new_user_account_06_18_2022_21_15_18.png 
+2022-06-18 21:15:23,274 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-06-18 21:15:24,722 [pool-1-thread-1] [INFO] [WowReport:228] - Screenshot taken for the Failed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_18_2022_21_14_07\Create_new_user_account_06_18_2022_21_15_23.png 
+2022-06-18 21:15:25,977 [pool-1-thread-1] [INFO] [WowReport:260] - 6;Create new user account;Create new user account Execution interrupted by Some issues;Fail 
+2022-06-18 21:15:25,978 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-06-18 21:15:26,886 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:4 
+2022-06-18 21:15:26,886 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:2 
+2022-06-18 21:15:26,887 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-06-18 21:15:26,887 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-06-18 21:15:26,888 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_06_18_2022_21_14_07.html 
+2022-06-18 21:15:26,909 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-06-18 21:15:26,950 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-06-19 00:55:43,344 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-06-19 00:55:43,426 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-06-19 00:55:43,429 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_00_55_43\ 
+2022-06-19 00:55:43,432 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-06-19 00:55:43,442 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-06-19 00:59:38,210 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-06-19 00:59:50,296 [pool-1-thread-1] [INFO] [WowReport:228] - Screenshot taken for the Failed Test step: AUT Login  Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_00_55_43\AUT_Login__06_19_2022_00_59_48.png 
+2022-06-19 00:59:52,117 [pool-1-thread-1] [INFO] [WowReport:260] - 2;AUT Login ;Username/Password is incorrect.Login failed;Fail 
+2022-06-19 01:00:10,301 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_00_55_43\Create_new_user_account_06_19_2022_01_00_00.png 
+2022-06-19 01:00:10,302 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-06-19 01:00:11,712 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Entered the user email value;Pass 
+2022-06-19 01:00:19,150 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_00_55_43\Create_new_user_account_06_19_2022_01_00_14.png 
+2022-06-19 01:00:19,150 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-06-19 01:00:22,304 [pool-1-thread-1] [INFO] [WowReport:260] - 6;Create new user account;Title got selected;Pass 
+2022-06-19 01:00:23,648 [pool-1-thread-1] [INFO] [WowReport:260] - 7;Create new user account;Entered the firstname;Pass 
+2022-06-19 01:00:25,045 [pool-1-thread-1] [INFO] [WowReport:260] - 8;Create new user account;Entered the lastname;Pass 
+2022-06-19 01:00:26,428 [pool-1-thread-1] [INFO] [WowReport:260] - 9;Create new user account;Entered the email id;Pass 
+2022-06-19 01:00:27,860 [pool-1-thread-1] [INFO] [WowReport:260] - 10;Create new user account;Entered the password;Pass 
+2022-06-19 01:02:06,605 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-06-19 01:02:09,605 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:9 
+2022-06-19 01:02:09,606 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:1 
+2022-06-19 01:02:09,606 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-06-19 01:02:09,606 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-06-19 01:02:09,606 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_06_19_2022_00_55_43.html 
+2022-06-19 01:02:09,607 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-06-19 01:02:09,608 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-06-19 15:29:35,574 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-06-19 15:29:35,601 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-06-19 15:29:35,604 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_15_29_35\ 
+2022-06-19 15:29:35,606 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-06-19 15:29:35,617 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-06-19 15:30:34,495 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-06-19 15:30:46,122 [pool-1-thread-1] [INFO] [WowReport:228] - Screenshot taken for the Failed Test step: AUT Login  Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_15_29_35\AUT_Login__06_19_2022_15_30_43.png 
+2022-06-19 15:30:48,000 [pool-1-thread-1] [INFO] [WowReport:260] - 2;AUT Login ;Username/Password is incorrect.Login failed;Fail 
+2022-06-19 15:31:08,685 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_15_29_35\Create_new_user_account_06_19_2022_15_30_56.png 
+2022-06-19 15:31:08,686 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-06-19 15:31:10,467 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Entered the user email value;Pass 
+2022-06-19 15:31:18,109 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_15_29_35\Create_new_user_account_06_19_2022_15_31_13.png 
+2022-06-19 15:31:18,110 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-06-19 15:31:21,247 [pool-1-thread-1] [INFO] [WowReport:260] - 6;Create new user account;Title got selected;Pass 
+2022-06-19 15:31:23,616 [pool-1-thread-1] [INFO] [WowReport:260] - 7;Create new user account;Entered the firstname;Pass 
+2022-06-19 15:31:24,921 [pool-1-thread-1] [INFO] [WowReport:260] - 8;Create new user account;Entered the lastname;Pass 
+2022-06-19 15:31:26,262 [pool-1-thread-1] [INFO] [WowReport:260] - 9;Create new user account;Entered the email id;Pass 
+2022-06-19 15:31:27,756 [pool-1-thread-1] [INFO] [WowReport:260] - 10;Create new user account;Entered the password;Pass 
+2022-06-19 15:33:28,288 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-06-19 15:33:29,437 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:9 
+2022-06-19 15:33:29,437 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:1 
+2022-06-19 15:33:29,438 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-06-19 15:33:29,438 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-06-19 15:33:29,439 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_06_19_2022_15_29_35.html 
+2022-06-19 15:33:29,441 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-06-19 15:33:29,443 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-06-19 15:36:12,355 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-06-19 15:36:12,357 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-06-19 15:36:12,357 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_15_36_12\ 
+2022-06-19 15:36:12,358 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-06-19 15:36:12,361 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-06-19 15:36:21,597 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-06-19 15:36:33,298 [pool-1-thread-1] [INFO] [WowReport:228] - Screenshot taken for the Failed Test step: AUT Login  Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_15_36_12\AUT_Login__06_19_2022_15_36_31.png 
+2022-06-19 15:36:35,165 [pool-1-thread-1] [INFO] [WowReport:260] - 2;AUT Login ;Username/Password is incorrect.Login failed;Fail 
+2022-06-19 15:37:03,774 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_15_36_12\Create_new_user_account_06_19_2022_15_36_46.png 
+2022-06-19 15:37:03,775 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-06-19 15:37:05,160 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Entered the user email value;Pass 
+2022-06-19 15:37:13,194 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_15_36_12\Create_new_user_account_06_19_2022_15_37_08.png 
+2022-06-19 15:37:13,195 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-06-19 15:37:16,313 [pool-1-thread-1] [INFO] [WowReport:260] - 6;Create new user account;Title got selected;Pass 
+2022-06-19 15:37:17,656 [pool-1-thread-1] [INFO] [WowReport:260] - 7;Create new user account;Entered the firstname;Pass 
+2022-06-19 15:37:18,989 [pool-1-thread-1] [INFO] [WowReport:260] - 8;Create new user account;Entered the lastname;Pass 
+2022-06-19 15:37:20,319 [pool-1-thread-1] [INFO] [WowReport:260] - 9;Create new user account;Entered the email id;Pass 
+2022-06-19 15:37:21,793 [pool-1-thread-1] [INFO] [WowReport:260] - 10;Create new user account;Entered the password;Pass 
+2022-06-19 15:37:21,795 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-06-19 15:37:23,036 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:9 
+2022-06-19 15:37:23,037 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:1 
+2022-06-19 15:37:23,037 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-06-19 15:37:23,037 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-06-19 15:37:23,039 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_06_19_2022_15_36_12.html 
+2022-06-19 15:37:23,041 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-06-19 15:37:23,043 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-06-19 17:15:38,626 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-06-19 17:15:38,658 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-06-19 17:15:38,660 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_17_15_38\ 
+2022-06-19 17:15:38,661 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-06-19 17:15:38,668 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-06-19 17:15:54,088 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-06-19 17:16:07,204 [pool-1-thread-1] [INFO] [WowReport:228] - Screenshot taken for the Failed Test step: AUT Login  Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_17_15_38\AUT_Login__06_19_2022_17_16_03.png 
+2022-06-19 17:16:09,063 [pool-1-thread-1] [INFO] [WowReport:260] - 2;AUT Login ;Username/Password is incorrect.Login failed;Fail 
+2022-06-19 17:16:28,490 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_17_15_38\Create_new_user_account_06_19_2022_17_16_17.png 
+2022-06-19 17:16:28,491 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-06-19 17:16:29,827 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Entered the user email value;Pass 
+2022-06-19 17:16:38,101 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_17_15_38\Create_new_user_account_06_19_2022_17_16_32.png 
+2022-06-19 17:16:38,102 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-06-19 17:16:41,251 [pool-1-thread-1] [INFO] [WowReport:260] - 6;Create new user account;Title got selected;Pass 
+2022-06-19 17:16:42,546 [pool-1-thread-1] [INFO] [WowReport:260] - 7;Create new user account;Entered the firstname;Pass 
+2022-06-19 17:16:43,866 [pool-1-thread-1] [INFO] [WowReport:260] - 8;Create new user account;Entered the lastname;Pass 
+2022-06-19 17:16:45,235 [pool-1-thread-1] [INFO] [WowReport:260] - 9;Create new user account;Entered the email id;Pass 
+2022-06-19 17:16:46,678 [pool-1-thread-1] [INFO] [WowReport:260] - 10;Create new user account;Entered the password;Pass 
+2022-06-19 17:16:46,680 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-06-19 17:16:47,654 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:9 
+2022-06-19 17:16:47,655 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:1 
+2022-06-19 17:16:47,656 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-06-19 17:16:47,656 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-06-19 17:16:47,657 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_06_19_2022_17_15_38.html 
+2022-06-19 17:16:47,659 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-06-19 17:16:47,662 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-06-19 17:17:46,827 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-06-19 17:17:46,829 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-06-19 17:17:46,829 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_17_17_46\ 
+2022-06-19 17:17:46,830 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-06-19 17:17:46,833 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-06-19 17:17:57,447 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-06-19 17:18:09,142 [pool-1-thread-1] [INFO] [WowReport:228] - Screenshot taken for the Failed Test step: AUT Login  Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_17_17_46\AUT_Login__06_19_2022_17_18_06.png 
+2022-06-19 17:18:11,063 [pool-1-thread-1] [INFO] [WowReport:260] - 2;AUT Login ;Username/Password is incorrect.Login failed;Fail 
+2022-06-19 17:19:16,290 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_17_17_46\Create_new_user_account_06_19_2022_17_19_06.png 
+2022-06-19 17:19:16,291 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-06-19 17:19:17,719 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Entered the user email value;Pass 
+2022-06-19 17:19:26,353 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_17_17_46\Create_new_user_account_06_19_2022_17_19_20.png 
+2022-06-19 17:19:26,354 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-06-19 17:19:29,501 [pool-1-thread-1] [INFO] [WowReport:260] - 6;Create new user account;Title got selected;Pass 
+2022-06-19 17:19:30,854 [pool-1-thread-1] [INFO] [WowReport:260] - 7;Create new user account;Entered the firstname;Pass 
+2022-06-19 17:19:32,145 [pool-1-thread-1] [INFO] [WowReport:260] - 8;Create new user account;Entered the lastname;Pass 
+2022-06-19 17:19:33,505 [pool-1-thread-1] [INFO] [WowReport:260] - 9;Create new user account;Entered the email id;Pass 
+2022-06-19 17:19:34,951 [pool-1-thread-1] [INFO] [WowReport:260] - 10;Create new user account;Entered the password;Pass 
+2022-06-19 17:21:35,084 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-06-19 17:21:36,226 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:9 
+2022-06-19 17:21:36,227 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:1 
+2022-06-19 17:21:36,227 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-06-19 17:21:36,228 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-06-19 17:21:36,229 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_06_19_2022_17_17_46.html 
+2022-06-19 17:21:36,232 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-06-19 17:21:36,234 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-06-19 17:26:58,006 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-06-19 17:26:58,009 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-06-19 17:26:58,010 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_17_26_58\ 
+2022-06-19 17:26:58,010 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-06-19 17:26:58,015 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-06-19 17:27:03,223 [pool-1-thread-1] [INFO] [WowReport:228] - Screenshot taken for the Failed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_17_26_58\Create_new_user_account_06_19_2022_17_27_01.png 
+2022-06-19 17:27:04,438 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Create new user account;Create new user account Execution interrupted by Some issues;Fail 
+2022-06-19 17:27:04,439 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-06-19 17:27:04,922 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:0 
+2022-06-19 17:27:04,922 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:1 
+2022-06-19 17:27:04,922 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-06-19 17:27:04,923 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-06-19 17:27:04,923 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_06_19_2022_17_26_58.html 
+2022-06-19 17:27:04,925 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-06-19 17:27:04,926 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-06-19 17:33:11,319 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-06-19 17:33:11,372 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-06-19 17:33:11,375 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_17_33_11\ 
+2022-06-19 17:33:11,377 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-06-19 17:33:11,387 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-06-19 17:33:16,170 [pool-1-thread-1] [INFO] [WowReport:228] - Screenshot taken for the Failed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_17_33_11\Create_new_user_account_06_19_2022_17_33_14.png 
+2022-06-19 17:33:17,400 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Create new user account;Create new user account Execution interrupted by Some issues;Fail 
+2022-06-19 17:33:17,401 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-06-19 17:33:18,222 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:0 
+2022-06-19 17:33:18,222 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:1 
+2022-06-19 17:33:18,222 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-06-19 17:33:18,222 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-06-19 17:33:18,223 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_06_19_2022_17_33_11.html 
+2022-06-19 17:33:18,241 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-06-19 17:33:18,245 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-06-19 17:37:12,389 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-06-19 17:37:12,407 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-06-19 17:37:12,409 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_17_37_12\ 
+2022-06-19 17:37:12,410 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-06-19 17:37:12,416 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-06-19 17:37:21,207 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-06-19 17:37:53,741 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_17_37_12\Create_new_user_account_06_19_2022_17_37_43.png 
+2022-06-19 17:37:53,744 [pool-1-thread-1] [INFO] [WowReport:260] - 2;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-06-19 17:37:55,166 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Entered the user email value;Pass 
+2022-06-19 17:38:04,777 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_17_37_12\Create_new_user_account_06_19_2022_17_37_58.png 
+2022-06-19 17:38:04,778 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-06-19 17:38:07,958 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Title got selected;Pass 
+2022-06-19 17:38:09,381 [pool-1-thread-1] [INFO] [WowReport:260] - 6;Create new user account;Entered the firstname;Pass 
+2022-06-19 17:38:10,764 [pool-1-thread-1] [INFO] [WowReport:260] - 7;Create new user account;Entered the lastname;Pass 
+2022-06-19 17:38:12,103 [pool-1-thread-1] [INFO] [WowReport:260] - 8;Create new user account;Entered the email id;Pass 
+2022-06-19 17:38:13,532 [pool-1-thread-1] [INFO] [WowReport:260] - 9;Create new user account;Entered the password;Pass 
+2022-06-19 17:40:13,757 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-06-19 17:40:14,887 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:9 
+2022-06-19 17:40:14,888 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:0 
+2022-06-19 17:40:14,888 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-06-19 17:40:14,888 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-06-19 17:40:14,889 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_06_19_2022_17_37_12.html 
+2022-06-19 17:40:14,891 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-06-19 17:40:14,893 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-06-19 17:42:34,824 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-06-19 17:42:34,832 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-06-19 17:42:34,834 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_17_42_34\ 
+2022-06-19 17:42:34,836 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-06-19 17:42:34,845 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-06-19 17:42:44,752 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-06-19 17:43:10,882 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_17_42_34\Create_new_user_account_06_19_2022_17_43_00.png 
+2022-06-19 17:43:10,886 [pool-1-thread-1] [INFO] [WowReport:260] - 2;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-06-19 17:43:12,340 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Entered the user email value;Pass 
+2022-06-19 17:43:21,218 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_17_42_34\Create_new_user_account_06_19_2022_17_43_15.png 
+2022-06-19 17:43:21,219 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-06-19 17:43:24,399 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Title got selected;Pass 
+2022-06-19 17:43:25,745 [pool-1-thread-1] [INFO] [WowReport:260] - 6;Create new user account;Entered the firstname;Pass 
+2022-06-19 17:43:27,096 [pool-1-thread-1] [INFO] [WowReport:260] - 7;Create new user account;Entered the lastname;Pass 
+2022-06-19 17:43:28,463 [pool-1-thread-1] [INFO] [WowReport:260] - 8;Create new user account;Entered the email id;Pass 
+2022-06-19 17:43:29,874 [pool-1-thread-1] [INFO] [WowReport:260] - 9;Create new user account;Entered the password;Pass 
+2022-06-19 17:45:30,378 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-06-19 17:45:31,197 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:9 
+2022-06-19 17:45:31,197 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:0 
+2022-06-19 17:45:31,198 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-06-19 17:45:31,198 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-06-19 17:45:31,199 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_06_19_2022_17_42_34.html 
+2022-06-19 17:45:31,201 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-06-19 17:45:31,202 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-06-19 17:47:50,559 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-06-19 17:47:50,562 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-06-19 17:47:50,563 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_17_47_50\ 
+2022-06-19 17:47:50,563 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-06-19 17:47:50,566 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-06-19 17:47:58,777 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-06-19 17:48:24,343 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_17_47_50\Create_new_user_account_06_19_2022_17_48_13.png 
+2022-06-19 17:48:24,345 [pool-1-thread-1] [INFO] [WowReport:260] - 2;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-06-19 17:48:25,751 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Entered the user email value;Pass 
+2022-06-19 17:48:43,905 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_17_47_50\Create_new_user_account_06_19_2022_17_48_29.png 
+2022-06-19 17:48:43,906 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-06-19 17:48:47,062 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Title got selected;Pass 
+2022-06-19 17:48:48,402 [pool-1-thread-1] [INFO] [WowReport:260] - 6;Create new user account;Entered the firstname;Pass 
+2022-06-19 17:48:49,711 [pool-1-thread-1] [INFO] [WowReport:260] - 7;Create new user account;Entered the lastname;Pass 
+2022-06-19 17:48:51,079 [pool-1-thread-1] [INFO] [WowReport:260] - 8;Create new user account;Entered the email id;Pass 
+2022-06-19 17:48:52,481 [pool-1-thread-1] [INFO] [WowReport:260] - 9;Create new user account;Entered the password;Pass 
+2022-06-19 17:50:53,157 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-06-19 17:50:53,931 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:9 
+2022-06-19 17:50:53,932 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:0 
+2022-06-19 17:50:53,932 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-06-19 17:50:53,932 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-06-19 17:50:53,933 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_06_19_2022_17_47_50.html 
+2022-06-19 17:50:53,934 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-06-19 17:50:53,935 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-06-19 23:08:53,652 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-06-19 23:08:53,668 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-06-19 23:08:53,669 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_08_53\ 
+2022-06-19 23:08:53,670 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-06-19 23:08:53,673 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-06-19 23:09:03,294 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-06-19 23:09:36,296 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_08_53\Create_new_user_account_06_19_2022_23_09_25.png 
+2022-06-19 23:09:36,299 [pool-1-thread-1] [INFO] [WowReport:260] - 2;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-06-19 23:09:37,870 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Entered the user email value;Pass 
+2022-06-19 23:09:45,332 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_08_53\Create_new_user_account_06_19_2022_23_09_41.png 
+2022-06-19 23:09:45,332 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-06-19 23:09:48,492 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Title got selected;Pass 
+2022-06-19 23:09:49,878 [pool-1-thread-1] [INFO] [WowReport:260] - 6;Create new user account;Entered the firstname;Pass 
+2022-06-19 23:09:51,277 [pool-1-thread-1] [INFO] [WowReport:260] - 7;Create new user account;Entered the lastname;Pass 
+2022-06-19 23:09:52,645 [pool-1-thread-1] [INFO] [WowReport:260] - 8;Create new user account;Entered the email id;Pass 
+2022-06-19 23:09:54,085 [pool-1-thread-1] [INFO] [WowReport:260] - 9;Create new user account;Entered the password;Pass 
+2022-06-19 23:11:54,655 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-06-19 23:11:55,275 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:9 
+2022-06-19 23:11:55,276 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:0 
+2022-06-19 23:11:55,277 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-06-19 23:11:55,277 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-06-19 23:11:55,278 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_06_19_2022_23_08_53.html 
+2022-06-19 23:11:55,280 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-06-19 23:11:55,282 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-06-19 23:13:33,064 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-06-19 23:13:33,067 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-06-19 23:13:33,067 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_13_33\ 
+2022-06-19 23:13:33,068 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-06-19 23:13:33,071 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-06-19 23:13:42,726 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-06-19 23:14:11,123 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_13_33\Create_new_user_account_06_19_2022_23_14_00.png 
+2022-06-19 23:14:11,128 [pool-1-thread-1] [INFO] [WowReport:260] - 2;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-06-19 23:14:12,518 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Entered the user email value;Pass 
+2022-06-19 23:14:22,118 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_13_33\Create_new_user_account_06_19_2022_23_14_15.png 
+2022-06-19 23:14:22,119 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-06-19 23:14:25,228 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Title got selected;Pass 
+2022-06-19 23:14:26,521 [pool-1-thread-1] [INFO] [WowReport:260] - 6;Create new user account;Entered the firstname;Pass 
+2022-06-19 23:14:27,942 [pool-1-thread-1] [INFO] [WowReport:260] - 7;Create new user account;Entered the lastname;Pass 
+2022-06-19 23:14:29,307 [pool-1-thread-1] [INFO] [WowReport:260] - 8;Create new user account;Entered the email id;Pass 
+2022-06-19 23:14:30,708 [pool-1-thread-1] [INFO] [WowReport:260] - 9;Create new user account;Entered the password;Pass 
+2022-06-19 23:14:31,272 [pool-1-thread-1] [INFO] [WowReport:260] - 10;Create new user account;Selected the date Value;Pass 
+2022-06-19 23:14:31,359 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-06-19 23:14:32,114 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:10 
+2022-06-19 23:14:32,114 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:0 
+2022-06-19 23:14:32,114 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-06-19 23:14:32,115 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-06-19 23:14:32,115 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_06_19_2022_23_13_33.html 
+2022-06-19 23:14:32,118 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-06-19 23:14:32,119 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-06-19 23:17:04,391 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-06-19 23:17:04,394 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-06-19 23:17:04,395 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_17_04\ 
+2022-06-19 23:17:04,395 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-06-19 23:17:04,399 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-06-19 23:17:10,673 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-06-19 23:17:48,038 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_17_04\Create_new_user_account_06_19_2022_23_17_30.png 
+2022-06-19 23:17:48,041 [pool-1-thread-1] [INFO] [WowReport:260] - 2;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-06-19 23:17:49,451 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Entered the user email value;Pass 
+2022-06-19 23:17:57,105 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_17_04\Create_new_user_account_06_19_2022_23_17_52.png 
+2022-06-19 23:17:57,106 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-06-19 23:18:00,245 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Title got selected;Pass 
+2022-06-19 23:18:01,598 [pool-1-thread-1] [INFO] [WowReport:260] - 6;Create new user account;Entered the firstname;Pass 
+2022-06-19 23:18:02,949 [pool-1-thread-1] [INFO] [WowReport:260] - 7;Create new user account;Entered the lastname;Pass 
+2022-06-19 23:18:04,279 [pool-1-thread-1] [INFO] [WowReport:260] - 8;Create new user account;Entered the email id;Pass 
+2022-06-19 23:18:05,710 [pool-1-thread-1] [INFO] [WowReport:260] - 9;Create new user account;Entered the password;Pass 
+2022-06-19 23:18:05,964 [pool-1-thread-1] [INFO] [WowReport:260] - 10;Create new user account;Selected the date Value;Pass 
+2022-06-19 23:18:06,115 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-06-19 23:18:07,692 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:10 
+2022-06-19 23:18:07,693 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:0 
+2022-06-19 23:18:07,694 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-06-19 23:18:07,694 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-06-19 23:18:07,696 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_06_19_2022_23_17_04.html 
+2022-06-19 23:18:07,698 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-06-19 23:18:07,701 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-06-19 23:20:06,646 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-06-19 23:20:06,648 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-06-19 23:20:06,649 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_20_06\ 
+2022-06-19 23:20:06,650 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-06-19 23:20:06,652 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-06-19 23:20:17,200 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-06-19 23:20:46,602 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_20_06\Create_new_user_account_06_19_2022_23_20_36.png 
+2022-06-19 23:20:46,604 [pool-1-thread-1] [INFO] [WowReport:260] - 2;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-06-19 23:20:48,019 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Entered the user email value;Pass 
+2022-06-19 23:20:59,605 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_20_06\Create_new_user_account_06_19_2022_23_20_51.png 
+2022-06-19 23:20:59,606 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-06-19 23:21:02,750 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Title got selected;Pass 
+2022-06-19 23:21:04,105 [pool-1-thread-1] [INFO] [WowReport:260] - 6;Create new user account;Entered the firstname;Pass 
+2022-06-19 23:21:05,390 [pool-1-thread-1] [INFO] [WowReport:260] - 7;Create new user account;Entered the lastname;Pass 
+2022-06-19 23:21:06,711 [pool-1-thread-1] [INFO] [WowReport:260] - 8;Create new user account;Entered the email id;Pass 
+2022-06-19 23:21:08,204 [pool-1-thread-1] [INFO] [WowReport:260] - 9;Create new user account;Entered the password;Pass 
+2022-06-19 23:21:08,505 [pool-1-thread-1] [INFO] [WowReport:260] - 10;Create new user account;Selected the date Value;Pass 
+2022-06-19 23:21:08,777 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-06-19 23:21:10,575 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:10 
+2022-06-19 23:21:10,575 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:0 
+2022-06-19 23:21:10,576 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-06-19 23:21:10,576 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-06-19 23:21:10,577 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_06_19_2022_23_20_06.html 
+2022-06-19 23:21:10,580 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-06-19 23:21:10,583 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-06-19 23:23:11,545 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-06-19 23:23:11,548 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-06-19 23:23:11,548 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_23_11\ 
+2022-06-19 23:23:11,549 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-06-19 23:23:11,552 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-06-19 23:23:20,975 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-06-19 23:23:49,501 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_23_11\Create_new_user_account_06_19_2022_23_23_36.png 
+2022-06-19 23:23:49,505 [pool-1-thread-1] [INFO] [WowReport:260] - 2;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-06-19 23:23:50,966 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Entered the user email value;Pass 
+2022-06-19 23:23:59,164 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_23_11\Create_new_user_account_06_19_2022_23_23_54.png 
+2022-06-19 23:23:59,165 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-06-19 23:24:02,320 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Title got selected;Pass 
+2022-06-19 23:24:03,928 [pool-1-thread-1] [INFO] [WowReport:260] - 6;Create new user account;Entered the firstname;Pass 
+2022-06-19 23:24:05,248 [pool-1-thread-1] [INFO] [WowReport:260] - 7;Create new user account;Entered the lastname;Pass 
+2022-06-19 23:24:06,631 [pool-1-thread-1] [INFO] [WowReport:260] - 8;Create new user account;Entered the email id;Pass 
+2022-06-19 23:24:08,053 [pool-1-thread-1] [INFO] [WowReport:260] - 9;Create new user account;Entered the password;Pass 
+2022-06-19 23:24:08,349 [pool-1-thread-1] [INFO] [WowReport:260] - 10;Create new user account;Selected the date Value;Pass 
+2022-06-19 23:24:08,639 [pool-1-thread-1] [INFO] [WowReport:260] - 11;Create new user account;Selected the month Value;Pass 
+2022-06-19 23:24:10,156 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_23_11\Create_new_user_account_06_19_2022_23_24_08.png 
+2022-06-19 23:24:10,157 [pool-1-thread-1] [INFO] [WowReport:260] - 12;Create new user account;Selected the year Value;Pass_ScreenShot 
+2022-06-19 23:24:13,324 [pool-1-thread-1] [INFO] [WowReport:260] - 13;Create new user account;selected the newsletter;Pass 
+2022-06-19 23:24:16,481 [pool-1-thread-1] [INFO] [WowReport:260] - 14;Create new user account;Special offers got selected;Pass 
+2022-06-19 23:24:17,817 [pool-1-thread-1] [INFO] [WowReport:260] - 15;Create new user account;Entered the Firstname for Address;Pass 
+2022-06-19 23:24:19,115 [pool-1-thread-1] [INFO] [WowReport:260] - 16;Create new user account;Entered the Lastname for Address;Pass 
+2022-06-19 23:24:20,498 [pool-1-thread-1] [INFO] [WowReport:260] - 17;Create new user account;Entered the companyname;Pass 
+2022-06-19 23:24:21,839 [pool-1-thread-1] [INFO] [WowReport:260] - 18;Create new user account;Entered the Address1;Pass 
+2022-06-19 23:24:23,219 [pool-1-thread-1] [INFO] [WowReport:260] - 19;Create new user account;Entered the Address2;Pass 
+2022-06-19 23:24:24,542 [pool-1-thread-1] [INFO] [WowReport:260] - 20;Create new user account;Entered the city;Pass 
+2022-06-19 23:26:25,249 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-06-19 23:26:26,134 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:20 
+2022-06-19 23:26:26,134 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:0 
+2022-06-19 23:26:26,134 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-06-19 23:26:26,135 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-06-19 23:26:26,136 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_06_19_2022_23_23_11.html 
+2022-06-19 23:26:26,137 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-06-19 23:26:26,138 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-06-19 23:31:09,599 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-06-19 23:31:09,601 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-06-19 23:31:09,601 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_31_09\ 
+2022-06-19 23:31:09,602 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-06-19 23:31:09,605 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-06-19 23:31:17,346 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-06-19 23:31:48,911 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_31_09\Create_new_user_account_06_19_2022_23_31_35.png 
+2022-06-19 23:31:48,914 [pool-1-thread-1] [INFO] [WowReport:260] - 2;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-06-19 23:31:50,274 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Entered the user email value;Pass 
+2022-06-19 23:31:58,038 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_31_09\Create_new_user_account_06_19_2022_23_31_53.png 
+2022-06-19 23:31:58,039 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-06-19 23:32:01,185 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Title got selected;Pass 
+2022-06-19 23:32:02,778 [pool-1-thread-1] [INFO] [WowReport:260] - 6;Create new user account;Entered the firstname;Pass 
+2022-06-19 23:32:04,098 [pool-1-thread-1] [INFO] [WowReport:260] - 7;Create new user account;Entered the lastname;Pass 
+2022-06-19 23:32:05,461 [pool-1-thread-1] [INFO] [WowReport:260] - 8;Create new user account;Entered the email id;Pass 
+2022-06-19 23:32:06,842 [pool-1-thread-1] [INFO] [WowReport:260] - 9;Create new user account;Entered the password;Pass 
+2022-06-19 23:32:07,165 [pool-1-thread-1] [INFO] [WowReport:260] - 10;Create new user account;Selected the date Value;Pass 
+2022-06-19 23:32:07,403 [pool-1-thread-1] [INFO] [WowReport:260] - 11;Create new user account;Selected the month Value;Pass 
+2022-06-19 23:32:08,945 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_31_09\Create_new_user_account_06_19_2022_23_32_07.png 
+2022-06-19 23:32:08,946 [pool-1-thread-1] [INFO] [WowReport:260] - 12;Create new user account;Selected the year Value;Pass_ScreenShot 
+2022-06-19 23:32:12,144 [pool-1-thread-1] [INFO] [WowReport:260] - 13;Create new user account;selected the newsletter;Pass 
+2022-06-19 23:32:15,300 [pool-1-thread-1] [INFO] [WowReport:260] - 14;Create new user account;Special offers got selected;Pass 
+2022-06-19 23:32:16,625 [pool-1-thread-1] [INFO] [WowReport:260] - 15;Create new user account;Entered the Firstname for Address;Pass 
+2022-06-19 23:32:17,934 [pool-1-thread-1] [INFO] [WowReport:260] - 16;Create new user account;Entered the Lastname for Address;Pass 
+2022-06-19 23:32:19,268 [pool-1-thread-1] [INFO] [WowReport:260] - 17;Create new user account;Entered the companyname;Pass 
+2022-06-19 23:32:20,663 [pool-1-thread-1] [INFO] [WowReport:260] - 18;Create new user account;Entered the Address1;Pass 
+2022-06-19 23:32:21,985 [pool-1-thread-1] [INFO] [WowReport:260] - 19;Create new user account;Entered the Address2;Pass 
+2022-06-19 23:32:23,377 [pool-1-thread-1] [INFO] [WowReport:260] - 20;Create new user account;Entered the city;Pass 
+2022-06-19 23:32:23,586 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-06-19 23:32:24,372 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:20 
+2022-06-19 23:32:24,372 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:0 
+2022-06-19 23:32:24,372 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-06-19 23:32:24,372 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-06-19 23:32:24,374 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_06_19_2022_23_31_09.html 
+2022-06-19 23:32:24,374 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-06-19 23:32:24,375 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-06-19 23:34:05,086 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-06-19 23:34:05,088 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-06-19 23:34:05,089 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_34_05\ 
+2022-06-19 23:34:05,089 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-06-19 23:34:05,092 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-06-19 23:34:12,225 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-06-19 23:34:39,196 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_34_05\Create_new_user_account_06_19_2022_23_34_27.png 
+2022-06-19 23:34:39,200 [pool-1-thread-1] [INFO] [WowReport:260] - 2;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-06-19 23:34:40,661 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Entered the user email value;Pass 
+2022-06-19 23:34:48,249 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_34_05\Create_new_user_account_06_19_2022_23_34_43.png 
+2022-06-19 23:34:48,250 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-06-19 23:34:54,663 [pool-1-thread-1] [INFO] [WowReport:228] - Screenshot taken for the Failed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_34_05\Create_new_user_account_06_19_2022_23_34_51.png 
+2022-06-19 23:34:55,893 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Create new user account Execution interrupted by Some issues;Fail 
+2022-06-19 23:34:55,894 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-06-19 23:34:57,485 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:4 
+2022-06-19 23:34:57,486 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:1 
+2022-06-19 23:34:57,487 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-06-19 23:34:57,487 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-06-19 23:34:57,488 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_06_19_2022_23_34_05.html 
+2022-06-19 23:34:57,488 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-06-19 23:34:57,489 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-06-19 23:36:53,989 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-06-19 23:36:53,996 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-06-19 23:36:53,998 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_36_53\ 
+2022-06-19 23:36:54,000 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-06-19 23:36:54,008 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-06-19 23:37:06,292 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-06-19 23:37:34,593 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_36_53\Create_new_user_account_06_19_2022_23_37_22.png 
+2022-06-19 23:37:34,597 [pool-1-thread-1] [INFO] [WowReport:260] - 2;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-06-19 23:37:35,945 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Entered the user email value;Pass 
+2022-06-19 23:37:43,880 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_36_53\Create_new_user_account_06_19_2022_23_37_39.png 
+2022-06-19 23:37:43,881 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-06-19 23:37:47,037 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Title got selected;Pass 
+2022-06-19 23:37:48,406 [pool-1-thread-1] [INFO] [WowReport:260] - 6;Create new user account;Entered the firstname;Pass 
+2022-06-19 23:37:49,792 [pool-1-thread-1] [INFO] [WowReport:260] - 7;Create new user account;Entered the lastname;Pass 
+2022-06-19 23:37:51,078 [pool-1-thread-1] [INFO] [WowReport:260] - 8;Create new user account;Entered the email id;Pass 
+2022-06-19 23:37:52,501 [pool-1-thread-1] [INFO] [WowReport:260] - 9;Create new user account;Entered the password;Pass 
+2022-06-19 23:37:52,831 [pool-1-thread-1] [INFO] [WowReport:260] - 10;Create new user account;Selected the date Value;Pass 
+2022-06-19 23:37:53,070 [pool-1-thread-1] [INFO] [WowReport:260] - 11;Create new user account;Selected the month Value;Pass 
+2022-06-19 23:37:54,557 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_36_53\Create_new_user_account_06_19_2022_23_37_53.png 
+2022-06-19 23:37:54,558 [pool-1-thread-1] [INFO] [WowReport:260] - 12;Create new user account;Selected the year Value;Pass_ScreenShot 
+2022-06-19 23:37:57,727 [pool-1-thread-1] [INFO] [WowReport:260] - 13;Create new user account;selected the newsletter;Pass 
+2022-06-19 23:38:00,900 [pool-1-thread-1] [INFO] [WowReport:260] - 14;Create new user account;Special offers got selected;Pass 
+2022-06-19 23:38:02,213 [pool-1-thread-1] [INFO] [WowReport:260] - 15;Create new user account;Entered the Firstname for Address;Pass 
+2022-06-19 23:38:03,550 [pool-1-thread-1] [INFO] [WowReport:260] - 16;Create new user account;Entered the Lastname for Address;Pass 
+2022-06-19 23:38:04,873 [pool-1-thread-1] [INFO] [WowReport:260] - 17;Create new user account;Entered the companyname;Pass 
+2022-06-19 23:38:06,183 [pool-1-thread-1] [INFO] [WowReport:260] - 18;Create new user account;Entered the Address1;Pass 
+2022-06-19 23:38:07,591 [pool-1-thread-1] [INFO] [WowReport:260] - 19;Create new user account;Entered the Address2;Pass 
+2022-06-19 23:38:08,941 [pool-1-thread-1] [INFO] [WowReport:260] - 20;Create new user account;Entered the city;Pass 
+2022-06-19 23:38:10,430 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_36_53\Create_new_user_account_06_19_2022_23_38_09.png 
+2022-06-19 23:38:10,431 [pool-1-thread-1] [INFO] [WowReport:260] - 21;Create new user account;Selected the State Value;Pass_ScreenShot 
+2022-06-19 23:38:10,432 [pool-1-thread-1] [INFO] [WowReport:260] - 22;Create new user account;Entered the state;Pass 
+2022-06-19 23:38:11,801 [pool-1-thread-1] [INFO] [WowReport:260] - 23;Create new user account;Entered the Zipcode ;Pass 
+2022-06-19 23:40:12,282 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-06-19 23:40:12,817 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:23 
+2022-06-19 23:40:12,818 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:0 
+2022-06-19 23:40:12,818 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-06-19 23:40:12,818 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-06-19 23:40:12,820 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_06_19_2022_23_36_53.html 
+2022-06-19 23:40:12,822 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-06-19 23:40:12,823 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-06-19 23:40:50,190 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-06-19 23:40:50,193 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-06-19 23:40:50,194 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_40_50\ 
+2022-06-19 23:40:50,194 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-06-19 23:40:50,197 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-06-19 23:41:00,487 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-06-19 23:42:14,182 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_40_50\Create_new_user_account_06_19_2022_23_42_04.png 
+2022-06-19 23:42:14,186 [pool-1-thread-1] [INFO] [WowReport:260] - 2;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-06-19 23:42:15,596 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Entered the user email value;Pass 
+2022-06-19 23:42:23,105 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_40_50\Create_new_user_account_06_19_2022_23_42_18.png 
+2022-06-19 23:42:23,106 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-06-19 23:42:26,276 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Title got selected;Pass 
+2022-06-19 23:42:27,657 [pool-1-thread-1] [INFO] [WowReport:260] - 6;Create new user account;Entered the firstname;Pass 
+2022-06-19 23:42:28,985 [pool-1-thread-1] [INFO] [WowReport:260] - 7;Create new user account;Entered the lastname;Pass 
+2022-06-19 23:42:30,322 [pool-1-thread-1] [INFO] [WowReport:260] - 8;Create new user account;Entered the email id;Pass 
+2022-06-19 23:42:31,726 [pool-1-thread-1] [INFO] [WowReport:260] - 9;Create new user account;Entered the password;Pass 
+2022-06-19 23:42:32,033 [pool-1-thread-1] [INFO] [WowReport:260] - 10;Create new user account;Selected the date Value;Pass 
+2022-06-19 23:42:32,267 [pool-1-thread-1] [INFO] [WowReport:260] - 11;Create new user account;Selected the month Value;Pass 
+2022-06-19 23:42:33,796 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_40_50\Create_new_user_account_06_19_2022_23_42_32.png 
+2022-06-19 23:42:33,796 [pool-1-thread-1] [INFO] [WowReport:260] - 12;Create new user account;Selected the year Value;Pass_ScreenShot 
+2022-06-19 23:42:36,962 [pool-1-thread-1] [INFO] [WowReport:260] - 13;Create new user account;selected the newsletter;Pass 
+2022-06-19 23:42:40,075 [pool-1-thread-1] [INFO] [WowReport:260] - 14;Create new user account;Special offers got selected;Pass 
+2022-06-19 23:42:41,417 [pool-1-thread-1] [INFO] [WowReport:260] - 15;Create new user account;Entered the Firstname for Address;Pass 
+2022-06-19 23:42:42,774 [pool-1-thread-1] [INFO] [WowReport:260] - 16;Create new user account;Entered the Lastname for Address;Pass 
+2022-06-19 23:42:44,158 [pool-1-thread-1] [INFO] [WowReport:260] - 17;Create new user account;Entered the companyname;Pass 
+2022-06-19 23:42:45,512 [pool-1-thread-1] [INFO] [WowReport:260] - 18;Create new user account;Entered the Address1;Pass 
+2022-06-19 23:42:46,820 [pool-1-thread-1] [INFO] [WowReport:260] - 19;Create new user account;Entered the Address2;Pass 
+2022-06-19 23:42:48,146 [pool-1-thread-1] [INFO] [WowReport:260] - 20;Create new user account;Entered the city;Pass 
+2022-06-19 23:42:49,668 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_40_50\Create_new_user_account_06_19_2022_23_42_48.png 
+2022-06-19 23:42:49,669 [pool-1-thread-1] [INFO] [WowReport:260] - 21;Create new user account;Selected the State Value;Pass_ScreenShot 
+2022-06-19 23:42:49,670 [pool-1-thread-1] [INFO] [WowReport:260] - 22;Create new user account;Entered the state;Pass 
+2022-06-19 23:42:51,025 [pool-1-thread-1] [INFO] [WowReport:260] - 23;Create new user account;Entered the Zipcode ;Pass 
+2022-06-19 23:42:52,365 [pool-1-thread-1] [INFO] [WowReport:260] - 24;Create new user account;Entered the AdditionalInformation;Pass 
+2022-06-19 23:42:53,659 [pool-1-thread-1] [INFO] [WowReport:260] - 25;Create new user account;Entered the HomePhone;Pass 
+2022-06-19 23:42:55,045 [pool-1-thread-1] [INFO] [WowReport:260] - 26;Create new user account;Entered the MobilePhone;Pass 
+2022-06-19 23:42:56,344 [pool-1-thread-1] [INFO] [WowReport:260] - 27;Create new user account;Entered the Address alias for future reference;Pass 
+2022-06-19 23:43:01,270 [pool-1-thread-1] [INFO] [WowReport:260] - 28;Create new user account;Clicked on Register button;Pass 
+2022-06-19 23:43:01,271 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-06-19 23:43:02,763 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:28 
+2022-06-19 23:43:02,763 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:0 
+2022-06-19 23:43:02,763 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-06-19 23:43:02,763 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-06-19 23:43:02,764 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_06_19_2022_23_40_50.html 
+2022-06-19 23:43:02,765 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-06-19 23:43:02,767 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-06-19 23:44:35,085 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-06-19 23:44:35,092 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-06-19 23:44:35,095 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_44_35\ 
+2022-06-19 23:44:35,096 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-06-19 23:44:35,104 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-06-19 23:44:44,865 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-06-19 23:45:17,303 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_44_35\Create_new_user_account_06_19_2022_23_45_05.png 
+2022-06-19 23:45:17,307 [pool-1-thread-1] [INFO] [WowReport:260] - 2;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-06-19 23:45:18,876 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Entered the user email value;Pass 
+2022-06-19 23:45:26,444 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_44_35\Create_new_user_account_06_19_2022_23_45_22.png 
+2022-06-19 23:45:26,444 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-06-19 23:45:29,582 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Title got selected;Pass 
+2022-06-19 23:45:30,949 [pool-1-thread-1] [INFO] [WowReport:260] - 6;Create new user account;Entered the firstname;Pass 
+2022-06-19 23:45:32,273 [pool-1-thread-1] [INFO] [WowReport:260] - 7;Create new user account;Entered the lastname;Pass 
+2022-06-19 23:45:33,596 [pool-1-thread-1] [INFO] [WowReport:260] - 8;Create new user account;Entered the email id;Pass 
+2022-06-19 23:45:34,965 [pool-1-thread-1] [INFO] [WowReport:260] - 9;Create new user account;Entered the password;Pass 
+2022-06-19 23:45:35,441 [pool-1-thread-1] [INFO] [WowReport:260] - 10;Create new user account;Selected the date Value;Pass 
+2022-06-19 23:45:35,643 [pool-1-thread-1] [INFO] [WowReport:260] - 11;Create new user account;Selected the month Value;Pass 
+2022-06-19 23:45:37,247 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_44_35\Create_new_user_account_06_19_2022_23_45_35.png 
+2022-06-19 23:45:37,248 [pool-1-thread-1] [INFO] [WowReport:260] - 12;Create new user account;Selected the year Value;Pass_ScreenShot 
+2022-06-19 23:45:40,397 [pool-1-thread-1] [INFO] [WowReport:260] - 13;Create new user account;selected the newsletter;Pass 
+2022-06-19 23:45:43,525 [pool-1-thread-1] [INFO] [WowReport:260] - 14;Create new user account;Special offers got selected;Pass 
+2022-06-19 23:45:44,861 [pool-1-thread-1] [INFO] [WowReport:260] - 15;Create new user account;Entered the Firstname for Address;Pass 
+2022-06-19 23:45:46,199 [pool-1-thread-1] [INFO] [WowReport:260] - 16;Create new user account;Entered the Lastname for Address;Pass 
+2022-06-19 23:45:47,552 [pool-1-thread-1] [INFO] [WowReport:260] - 17;Create new user account;Entered the companyname;Pass 
+2022-06-19 23:45:48,933 [pool-1-thread-1] [INFO] [WowReport:260] - 18;Create new user account;Entered the Address1;Pass 
+2022-06-19 23:45:50,291 [pool-1-thread-1] [INFO] [WowReport:260] - 19;Create new user account;Entered the Address2;Pass 
+2022-06-19 23:45:51,594 [pool-1-thread-1] [INFO] [WowReport:260] - 20;Create new user account;Entered the city;Pass 
+2022-06-19 23:45:53,072 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_06_19_2022_23_44_35\Create_new_user_account_06_19_2022_23_45_51.png 
+2022-06-19 23:45:53,072 [pool-1-thread-1] [INFO] [WowReport:260] - 21;Create new user account;Selected the State Value;Pass_ScreenShot 
+2022-06-19 23:45:53,073 [pool-1-thread-1] [INFO] [WowReport:260] - 22;Create new user account;Entered the state;Pass 
+2022-06-19 23:45:54,378 [pool-1-thread-1] [INFO] [WowReport:260] - 23;Create new user account;Entered the Zipcode ;Pass 
+2022-06-19 23:45:55,716 [pool-1-thread-1] [INFO] [WowReport:260] - 24;Create new user account;Entered the AdditionalInformation;Pass 
+2022-06-19 23:45:57,069 [pool-1-thread-1] [INFO] [WowReport:260] - 25;Create new user account;Entered the HomePhone;Pass 
+2022-06-19 23:45:58,434 [pool-1-thread-1] [INFO] [WowReport:260] - 26;Create new user account;Entered the MobilePhone;Pass 
+2022-06-19 23:45:59,757 [pool-1-thread-1] [INFO] [WowReport:260] - 27;Create new user account;Entered the Address alias for future reference;Pass 
+2022-06-19 23:46:07,723 [pool-1-thread-1] [INFO] [WowReport:260] - 28;Create new user account;Clicked on Register button;Pass 
+2022-06-19 23:46:07,724 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-06-19 23:46:09,809 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:28 
+2022-06-19 23:46:09,809 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:0 
+2022-06-19 23:46:09,810 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-06-19 23:46:09,810 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-06-19 23:46:09,810 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_06_19_2022_23_44_35.html 
+2022-06-19 23:46:09,812 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-06-19 23:46:09,813 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-07-08 01:21:31,325 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-07-08 01:21:31,355 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-07-08 01:21:31,358 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_07_08_2022_01_21_31\ 
+2022-07-08 01:21:31,361 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-07-08 01:21:31,371 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-07-08 01:21:45,056 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-07-08 01:22:24,607 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_07_08_2022_01_21_31\Create_new_user_account_07_08_2022_01_22_05.png 
+2022-07-08 01:22:24,612 [pool-1-thread-1] [INFO] [WowReport:260] - 2;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-07-08 01:22:26,972 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Entered the user email value;Pass 
+2022-07-08 01:22:34,904 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_07_08_2022_01_21_31\Create_new_user_account_07_08_2022_01_22_30.png 
+2022-07-08 01:22:34,905 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-07-08 01:22:39,440 [pool-1-thread-1] [INFO] [WowReport:228] - Screenshot taken for the Failed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_07_08_2022_01_21_31\Create_new_user_account_07_08_2022_01_22_38.png 
+2022-07-08 01:22:40,773 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Create new user account Execution interrupted by Some issues;Fail 
+2022-07-08 01:22:40,774 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-07-08 01:22:41,683 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:4 
+2022-07-08 01:22:41,683 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:1 
+2022-07-08 01:22:41,685 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-07-08 01:22:41,685 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-07-08 01:22:41,686 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_07_08_2022_01_21_31.html 
+2022-07-08 01:22:41,687 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-07-08 01:22:41,688 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-07-08 01:47:33,377 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-07-08 01:47:33,430 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-07-08 01:47:33,432 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_07_08_2022_01_47_33\ 
+2022-07-08 01:47:33,435 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-07-08 01:47:33,448 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-07-08 01:47:45,278 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-07-08 01:48:29,216 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_07_08_2022_01_47_33\Create_new_user_account_07_08_2022_01_48_15.png 
+2022-07-08 01:48:29,219 [pool-1-thread-1] [INFO] [WowReport:260] - 2;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-07-08 01:48:31,464 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Entered the user email value;Pass 
+2022-07-08 01:48:39,651 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_07_08_2022_01_47_33\Create_new_user_account_07_08_2022_01_48_34.png 
+2022-07-08 01:48:39,652 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-07-08 01:48:44,893 [pool-1-thread-1] [INFO] [WowReport:228] - Screenshot taken for the Failed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_07_08_2022_01_47_33\Create_new_user_account_07_08_2022_01_48_43.png 
+2022-07-08 01:48:46,166 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Create new user account Execution interrupted by Some issues;Fail 
+2022-07-08 01:48:46,167 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-07-08 01:48:49,087 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:4 
+2022-07-08 01:48:49,088 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:1 
+2022-07-08 01:48:49,091 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-07-08 01:48:49,091 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-07-08 01:48:49,093 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_07_08_2022_01_47_33.html 
+2022-07-08 01:48:49,094 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-07-08 01:48:49,096 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-07-08 01:50:35,601 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-07-08 01:50:35,660 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-07-08 01:50:35,661 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_07_08_2022_01_50_35\ 
+2022-07-08 01:50:35,661 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-07-08 01:50:35,664 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-07-08 01:50:48,617 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-07-08 01:54:33,827 [pool-1-thread-1] [INFO] [WowReport:362] - Screenshot error 
+2022-07-08 01:54:33,828 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_07_08_2022_01_50_35\Create_new_user_account_07_08_2022_01_53_44.png 
+2022-07-08 01:54:33,830 [pool-1-thread-1] [INFO] [WowReport:260] - 2;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-07-08 01:55:14,949 [pool-1-thread-1] [INFO] [WowReport:362] - Screenshot error 
+2022-07-08 01:55:14,949 [pool-1-thread-1] [INFO] [WowReport:228] - Screenshot taken for the Failed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_07_08_2022_01_50_35\Create_new_user_account_07_08_2022_01_55_02.png 
+2022-07-08 01:55:27,149 [pool-1-thread-1] [INFO] [WowReport:362] - Screenshot error 
+2022-07-08 01:55:27,150 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Create new user account Execution interrupted by Some issues;Fail 
+2022-07-08 01:55:27,150 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-07-08 01:55:30,096 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:2 
+2022-07-08 01:55:30,097 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:1 
+2022-07-08 01:55:30,101 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-07-08 01:55:30,102 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-07-08 01:55:30,103 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_07_08_2022_01_50_35.html 
+2022-07-08 01:55:30,141 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-07-08 01:55:30,142 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-07-08 02:29:19,272 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-07-08 02:29:19,310 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-07-08 02:29:19,313 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_07_08_2022_02_29_19\ 
+2022-07-08 02:29:19,315 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-07-08 02:29:19,331 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-07-08 02:29:35,362 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-07-08 02:30:18,153 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_07_08_2022_02_29_19\Create_new_user_account_07_08_2022_02_29_55.png 
+2022-07-08 02:30:18,157 [pool-1-thread-1] [INFO] [WowReport:260] - 2;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-07-08 02:30:20,177 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Entered the user email value;Pass 
+2022-07-08 02:30:26,958 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_07_08_2022_02_29_19\Create_new_user_account_07_08_2022_02_30_23.png 
+2022-07-08 02:30:26,958 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-07-08 02:30:31,277 [pool-1-thread-1] [INFO] [WowReport:228] - Screenshot taken for the Failed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_07_08_2022_02_29_19\Create_new_user_account_07_08_2022_02_30_30.png 
+2022-07-08 02:30:32,502 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Create new user account Execution interrupted by Some issues;Fail 
+2022-07-08 02:30:32,502 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-07-08 02:30:34,445 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:4 
+2022-07-08 02:30:34,445 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:1 
+2022-07-08 02:30:34,447 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-07-08 02:30:34,447 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-07-08 02:30:34,448 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_07_08_2022_02_29_19.html 
+2022-07-08 02:30:34,453 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-07-08 02:30:34,455 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-07-08 03:11:46,155 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-07-08 03:11:46,183 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-07-08 03:11:46,203 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_07_08_2022_03_11_46\ 
+2022-07-08 03:11:46,205 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-07-08 03:11:46,212 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-07-08 03:11:57,232 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-07-08 03:12:32,566 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_07_08_2022_03_11_46\Create_new_user_account_07_08_2022_03_12_15.png 
+2022-07-08 03:12:32,571 [pool-1-thread-1] [INFO] [WowReport:260] - 2;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-07-08 03:12:34,415 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Entered the user email value;Pass 
+2022-07-08 03:12:43,143 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_07_08_2022_03_11_46\Create_new_user_account_07_08_2022_03_12_37.png 
+2022-07-08 03:12:43,143 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-07-08 03:12:49,118 [pool-1-thread-1] [INFO] [WowReport:228] - Screenshot taken for the Failed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_07_08_2022_03_11_46\Create_new_user_account_07_08_2022_03_12_47.png 
+2022-07-08 03:12:50,830 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Create new user account Execution interrupted by Some issues;Fail 
+2022-07-08 03:12:50,830 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-07-08 03:12:52,890 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:4 
+2022-07-08 03:12:52,891 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:1 
+2022-07-08 03:12:52,895 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-07-08 03:12:52,896 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-07-08 03:12:52,897 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_07_08_2022_03_11_46.html 
+2022-07-08 03:12:52,899 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-07-08 03:12:52,901 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-07-09 01:55:13,755 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-07-09 01:55:13,875 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-07-09 01:55:13,998 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_07_09_2022_01_55_13\ 
+2022-07-09 01:55:14,068 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-07-09 01:55:14,071 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-07-09 01:55:32,651 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-07-09 01:56:45,217 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_07_09_2022_01_55_13\Create_new_user_account_07_09_2022_01_55_52.png 
+2022-07-09 01:56:45,226 [pool-1-thread-1] [INFO] [WowReport:260] - 2;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-07-09 01:56:51,139 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Entered the user email value;Pass 
+2022-07-09 01:57:02,018 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_07_09_2022_01_55_13\Create_new_user_account_07_09_2022_01_56_54.png 
+2022-07-09 01:57:02,020 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-07-09 01:57:06,834 [pool-1-thread-1] [INFO] [WowReport:228] - Screenshot taken for the Failed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_07_09_2022_01_55_13\Create_new_user_account_07_09_2022_01_57_05.png 
+2022-07-09 01:57:08,269 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Create new user account Execution interrupted by Some issues;Fail 
+2022-07-09 01:57:08,269 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-07-09 01:57:11,643 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:4 
+2022-07-09 01:57:11,643 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:1 
+2022-07-09 01:57:11,647 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-07-09 01:57:11,648 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-07-09 01:57:11,649 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_07_09_2022_01_55_13.html 
+2022-07-09 01:57:11,651 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-07-09 01:57:11,653 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 

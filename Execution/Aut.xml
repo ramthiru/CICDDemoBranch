@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AutSuite" parallel="methods" thread-count="1">
+<test name="AutTest">
+<classes>
+ <parameter name="browser" value="CH"/>
+ <parameter name="ENV" value="SIT"/>
+			 
+			 
+	 <class name="com.wow.rpc.TestCases.CreateAccountTest"/>
+	  <methods>
+		
+
+		<include name="shop_createUserAccount"></include>
+		
+	    
+	    
+</methods>
+</classes>
+</test>
+</suite>

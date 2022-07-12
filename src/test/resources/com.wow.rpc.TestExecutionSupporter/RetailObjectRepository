@@ -1,0 +1,1166 @@
+							#UC
+							
+
+ucClient   = v-spinner-textfield
+ucUserName = //*[@id="awi-97011"]/div/div[2]/div/div/div/div[1]/div/div[3]/div/div[7]/div/input
+ucPassWord = //*[@id="awi-97011"]/div/div[2]/div/div/div/div[1]/div/div[3]/div/div[11]/div/input
+ucLoginBtn = uc4_common_button-caption	
+searchBox  = //*[@id="awi-97011"]/div/div[2]/div[2]/div/div/div[7]/div/div/div/div/input						
+
+
+
+									#PLMS Objects Setting 
+
+						 	#Login Screen
+uname 		= user_id_show
+pass 		= input[type='password'][onfocus='this.readOnly=false;this.select();']
+loginBtn 	= formsubmit
+
+
+							#Manage Order
+	
+SourceDes 			= DIV#searchresults>div>table>tbody>tr:nth-child(4)>td|cssSelector
+updateBtn 			= input[name='newRuleButton'][value='Update']|cssSelector
+
+orderScheduleLink	= Schedules|partialLinkText
+manageOrdrscheudle	= Manage Order|partialLinkText
+createOrdereScedule	= newRuleButton|name
+supplier  			= orderScheduleDetailParam.suppDesc|id
+scheduleDesk		= orderScheduleDetailParam.scheduleDesc|name
+schedule			= scheduleName|id
+cutOffTime			= cutOffTime|id
+productLevel		= ProductLevel|id
+processTime			= processTime|id
+date                = //span[@id='fromDateTrigger']/img|xpath
+MonPat				= MonPat|id
+TuePat				= TuePat|id	
+WedPat				= WedPat|id
+ThuPat				= ThuPat|id
+FriPat				= FriPat|id
+SatPat				= SatPat|id
+SunPat				= SunPat|id
+desDay0				= desDay0|id
+desTime0			= desTime0|id
+leadTime0			= leadTime0|id
+repTime0			= repTime0|id
+monday				= Monday|id
+tuesday				= Tuesday|id
+wednesday			= Wednesday|id	
+thursday			= Thursday|id
+friday				= Friday|id
+saturday			= Saturday|id
+sunday				= Sunday|id
+StoreNumber			= orderScheduleDetailParam.storeLevelNumber|id
+addstore			= addstore|id
+saveBtn				= input[name='saveRule'][Value='Save']|cssSelector
+
+desDay1				= desDay1|id
+desTime1			= desTime1|id
+leadTime1			= leadTime1|id
+repTime1			= repTime1|id
+
+
+greenLine			= greenLine0|id
+
+success  			= success|className
+messages			= td.messages>font>div|cssSelector
+successMsge			= ul.actionMessage>li>span|cssSelector
+cancelBtn			= input[type='button'][value='Cancel'][name='cancel']|cssSelector
+searchBtn			= ShowResults|name
+searchResult		= div#searchresults>div>table>tbody>tr:nth-child(2)>td:nth-child(1)>a|cssSelector
+updateBtn			= input[type='button'][name='updateRule']|cssSelector
+resetBtn			= input[type='button'][value='Reset']|cssSelector
+deleteBtn			= deleteRule|name
+deleteOkBtn			= //*[@id='ok']|xpath
+OrderShdletotRecs	= table.pager>tbody>tr:nth-child(1)>td|cssSelector
+supNmeInSrchResult	= div#searchresults>div>table>tbody>tr:nth-child(2)>td:nth-child(2)>label|cssSelector
+proLevelValue		= orderScheduleDetailParam.prodLvlDesc|id
+
+					#Override Schedule Functionality
+						
+overrideBtn			= input[type='button'][name='CreateOverride']|cssSelector
+overschedulename	= overdScheduleName|id
+OrdrScdletodate		= orderScheduleToDate|id 	
+	
+ 											#Transport Profile
+ 											
+ 
+ 
+scheduler		= Scheduler|linktext
+managenetPrfle	= Manage Network Profile|linktext
+mngeTrprt		= Manage Transport Profile|linktext
+#or
+#mngeTrprt		= //*[@id="13-submenu-1"]/li/a|xpath
+#or
+#mngeTrprt		= div#container>div>ul:nth-child(13)>li>ul>li>a|cssSelector
+
+createTrrtPrfBtn= input[type='submit'][value='Create Transport Profile']|cssSelector
+transportCode	= createTransportProfileParam.transportCode|name
+transport_desc	= createTransportProfileParam.transportDesc|name
+#transportMode	= createTransportProfileParam.transportMode|name  
+transportMode	= div#transportProfileDiv>table>tbody>tr:nth-child(2)>td:nth-child(2)>select|cssSelector
+
+commodityCode	= createTransportProfileParam.commodityCode|name
+cubeCapacity	= createTransportProfileParam.cubeCap|name
+#weightCapacity	= createTransportProfileParam.weightCap|name
+weightCapacity	= fieldset#createTransportDimension>div>table>tbody>tr:nth-child(2)>td:nth-child(2)>input|cssSelector
+palletFootprint	= fieldset#createTransportDimension>div>table>tbody>tr:nth-child(2)>td:nth-child(4)>input|cssSelector
+#palletFootprint= createTransportProfileParam.palletCap|name
+transportSaveBtn= input[type='submit'][value='Save']|cssSelector
+ 	
+							#Carrier Profile
+							
+							
+ManageCarrier	= Manage Carrier Profile|linktext
+createProfileBtn= input[type='button'][name='newRuleButton'][value='Create Carrier Profile']|cssSelector							
+CarrierCode 	= carrierCD|id
+CarrierType		= carrierType|id 
+CarrierDes		= carrierDesc|id
+TrnPrtCode		= carrierProfileCreateParam.transportCD|id
+CarrierSaveBtn 	= input[type='button'][name='newRuleButton'][value='Save']|cssSelector
+
+						#DC Vendor Carrier Links
+
+carrierLinktab 	= Manage DC Vendor Carrier Link|linktext
+createDcVndrBtn = input[type='button'][value='Create DC Vendor Carrier Links']|cssSelector
+dCVendorcarrier = createParam.carrierCD|id
+dcsource		= createParam.vndrNo|id
+dcdestination	= createParam.dcNum|id
+addDCBtn		= input[type='button'][value='Add']|cssSelector
+dcVndraddBtn	= input[type='submit'][value='Save']|cssSelector
+
+
+
+	
+							#Network Profile
+							
+ManageNwrkPrfl  = Manage Network|partiallinktext
+createNwPrflbtn = input[type='button'][name='newRuleButton'][value='Create Network Profile']|cssSelecotr
+source 			= srcDestCreateParam.sourceNo|id
+destination 	= srcDestCreateParam.destNo|id
+carrier 		= srcDestCreateParam.carrierCD|id
+pallet			= palletID|id
+loadingPort		= srcDestSearchParam.portOfLoading|name
+dstnPort		= srcDestSearchParam.portOfDestination|name
+
+
+production  	= prodLeadTime|id
+consolidate 	= consolidate|id
+transLTime  	= transLeadTime|id
+portLTime   	= portLeadtime|id
+deConsolidate  	= restrictOnlyNumberDecons|id
+total       	= total|id 
+networkSaveBtn 	= input[type='button'][name='newRuleButton'][value='Save']|cssSelector		
+netwrkCnfMsge	= //*[@id="mainTd"]/table/tbody/tr[2]/td/font/div[2]|xpath
+
+
+		#DC Booking
+
+dcbookingtab	= DC Booking|linktext
+dc				= searchParam.dc|id    
+dock			= dock|id
+dcDate			= slotFromDate|id 
+dcSearchBtn		= searchButton|name
+MaxCapacity		= timeslotArray[0].maxCpcty|name
+MaxCapacity1	= timeslotArray[1].maxCpcty|name
+palletUpdateBtn = updateBtn|id
+addpermlink		= //*[@id="rowId0"]/td[2]/a[2]|xpath
+addpermlink1	= //*[@id="rowId1"]/td[2]/a[2]|xpath
+venCarType   	= bkgType|id
+venCarName		= bkgId|id
+venCarCapacity	= capacity|id
+addBtnInDc		= input[type='button'][value='Add']|cssSelector
+availCapacity   = //*[@id="rowId0"]/td[5]
+
+
+  				#Clear the Time slots
+  
+dctimeSlots		= expandpoDetails0|id
+dctimeSlots1	= expandpoDetails1|id
+dctimeslotClear = permanentTimeslotClear00|id
+dctimeslotClear1= permanentTimeslotClear10|id
+clearBtn		= clearPermanentTimeslotsButton|name
+
+dcResetBtn		= resetButton|name
+
+
+
+				#Update NetWork Profile
+
+nwupdateSrc 		= srcDestSearchParam.sourceNo|id
+nwupdateDstn 		= srcDestSearchParam.destNo|id
+nwUpdateSearcBtn	= input[type='button'][name='newRuleButton'][value='Search']|cssSelector
+nwUpdateBtn			= input[type='button'][name='newRuleButton'][value='Update']|cssSelector
+
+
+			#Delete network Profile
+			
+nwDeleteBtn			= input[type='button'][name='newRuleButton'][value='Delete']|cssSelector
+nwDelOkConf			= input#ok|cssSelector			
+nwResetBtn			= input[type='button'][name='newRuleButton'][value='Reset']|cssSelector
+							
+	
+				#Implementation Flag
+				
+autoStkrTab   = AutoStockR Flag|linktext
+manageImpFlg  = Manage Implementation Flag|linktext
+site	      = autoSuggestForm.site|id
+article	      =	autoSuggestForm.article|id
+ImpFlgSrhBtn  = searchButton|id
+imgFlgDrpDwn  = searchImplementation_manageImplementationForm_searchResults_0__implFlag|id
+dateImpFlg	  = //*[@id="effectiveDateTrigger0"]/img|xpath					
+impgFlgConfMsg= //*[@id='mainTd']/table/tbody/tr[2]/td/font/ul/li/span|xpath
+impFlgDepart  = autoSuggestForm.department|id
+impFlgCate	  = autoSuggestForm.category|id
+impFlgSub     = autoSuggestForm.subCategory|id
+impFlgSeg     = autoSuggestForm.segment|id
+impEfftDate	  = effectiveDate0|id	
+
+					#DC Arrival Calendar
+dcarrCal				= DC Arrival Calendar|linktext					
+dcInCalendararr			= searchParam.dcNo|id
+vendorInCalendarArr		= searchParam.vendorGrp|id
+fromDateInCalendarArr	= fromDate|id
+toDateInCalendarArr		= toDate|id
+srchInCalendarArr		= input[type='button'][name='Search']|cssSelector
+resetInCalendarArr		= input[type='button'][name='Reset']|cssSelector
+createInCalendarArr		= input[type='button'][name='create']|cssSelector
+importInCalendarArr		= input[type='submit'][value='Import']|cssSelector
+exportInCalendarArr		= input[type='button'][value='Export']|cssSelector
+expTemInCalendarArr		= input[type='button'][value='Export Template']|cssSelector
+vendorGrpInCreatePrm	= createParam.vendorGrp|id
+dcInCreatePrm			= createParam.dcNo|id
+createPrm-type			= type|id
+
+
+groupname				= Groupings|linktext
+vendorGrpName			= Vendor Groups|linktext
+createVndrGrpBtn		= input[type='button'][value='Create Vendor Group']|cssSelector
+grpName					= groupName|id
+groupNo					= autoSuggestForm.subCategory|id
+addtoGrpbtn				= input[type='button'][value='Add To Group']|cssSelector
+saveBtnInVndrGrp		= input[type='button'][value='Save']|cssSelector
+arrCalMon				= monday|id
+arrCalTue				= tuesday|id
+arrCalWed				= wednesday|id
+arrCalThu				= thursday|id
+arrCalFri				= friday|id
+arrCalSat				= saturday|id
+headText				= //*[@id="header"]/p|xpath
+dcCheck0				= check0|id
+dcCheck1				= check1|id
+dcCheck2				= check2|id
+dcCheck3				= check3|id
+dcExpBtn0				= expandingButton0|id
+dcExpBtn1				= expandingButton1|id
+dcOverExpBtn0			= expanding0|id
+
+monarrcal				= monCalendar-0-0|id
+tuearrcal				= tueCalendar-0-0|id
+wedarrcal				= wedCalendar-0-0|id
+thuarrcal				= thuCalendar-0-0|id
+friarrcal				= friCalendar-0-0|id
+satarrcal				= satCalendar-0-0|id
+sunarrcal				= sunCalendar-0-0|id
+
+monDcSecCal				= monSecondCalendar-0-0|id
+tueDcSecCal				= tueSecondCalendar-0-0|id
+wedDcSecCal				= wedSecondCalendar-0-0|id
+thuDcSecCal				= thuSecondCalendar-0-0|id
+friDcSecCal				= friSecondCalendar-0-0|id
+satDcSecCal				= table#innerRow>tbody>tr>td:nth-child(6)>input|cssSelector
+sunDcSecCal				= sunSecondCalendar-0-0|id
+
+monDcSecCal1			= monSecondCalendar-1-0|id
+tueDcSecCal1			= tueSecondCalendar-1-0|id
+wedDcSecCal1			= wedSecondCalendar-1-0|id
+thuDcSecCal1			= thuSecondCalendar-1-0|id
+friDcSecCal1			= friSecondCalendar-1-0|id
+satDcSecCal1			= satSecondCalendar-1-0|id
+sunDcSecCal1			= sunSecondCalendar-1-0|id
+
+
+dcDeleteOk				= ok|id
+delOkBtn1				= //*[@id="ok"]|xpath
+
+firstRuleId				= //*[@id='row']/tbody/tr[1]/td[1]|xpath
+updateInDcupdate		= //*[@id="resultsDiv"]/div/table/tbody/tr/td[2]/input|xpath
+deleteInDcupdate		= //*[@id="resultsDiv"]/div/table/tbody/tr/td[1]/input|xpath
+fromDateInsearchRslt	= fromDate-0|id
+dcOverfromDate			= fromDate-0-0|id
+
+
+
+					#Order Upto Rule
+					
+orderUpto				= Order Up To|linktext
+manageOrder				= Manage Order Up To Rules|linktext
+#newRuleBtn				= newRuleButton|name
+newRuleBtn				= input[type='button'][value="Create New Order Up To Rule"]|cssSelector					
+
+locLevel				= OrganizationLevel|id
+locLeelVal				= orderUptoDetailParam.locationLevelNoDesc|id
+proLevel				= ProductLevel|id
+proLeevlVal				= orderUptoDetailParam.itemLevelNoDesc|id
+
+
+
+monrecPat				= recurrencePatternMonday|id
+tuerecPat				= recurrencePatternTuesday|id
+wedrecPat				= recurrencePatternWednesday|id
+thurecPat				= recurrencePatternThursday|id
+frirecPat				= recurrencePatternFriday|id
+satrecPat				= recurrencePatternSaturday|id
+sunrecPat				= recurrencePatternSunday|id
+
+sunDayNeed				= buildAheadDayssunNeed|id
+monDayNeed				= buildAheadDaysmonNeed|id
+tueDayNeed				= buildAheadDaystueNeed|id
+wedDayNeed				= buildAheadDayswedNeed|id
+thuDayNeed				= buildAheadDaysthuNeed|id
+friDayNeed				= buildAheadDaysfriNeed|id
+satDayNeed				= buildAheadDayssatNeed|id
+
+sunDayWant				= buildAheadDayssunWant|id
+monDayWant				= buildAheadDaysmonWant|id
+tueDayWant				= buildAheadDaystueWant|id
+wedDayWant				= buildAheadDayswedWant|id
+thuDayWant				= buildAheadDaysthuWant|id
+friDayWant				= buildAheadDaysfriWant|id
+satDayWant				= buildAheadDayssatWant|id
+
+recstartDate			= startDateRecurruingRule|id
+recendDate				= endDateRecurringRule|id
+						   	
+
+saveBtnInOrdrUptoRule	= input[type='button'][value='Save Rule']|cssSelector
+supplierlabel			= //*[@id='defineLevelDiv']/table/tbody/tr[5]/td[1]/label|xpath
+supplierBox				= orderUptoDetailParam.warehouseNoDesc|id
+excludeA				= ExcludeAClassItems|id
+excludeB				= ExcludeBClassItems|id
+excludeC				= ExcludeCClassItems|id
+excludeD				= ExcludeDClassItems|id
+excludeE				= ExcludeEClassItems|id
+excludeF				= ExcludeFClassItems|id
+excludeG				= ExcludeGClassItems|id
+
+
+reasoncode				= ReasonCode|id
+justfiText				= textArea|id
+
+shelfneed				= div#recuranceDivC7>input|cssSelector
+DCerrMesge				= ul.errorMessage>li>span|cssSelector
+selectAll				= allCheckBox|id
+
+
+				#Common Result Table
+							
+resultTable1		= table.list>tbody>tr|cssSelector
+resultTable2		= table#row>tbody>tr|cssSelector
+totalResult			= div#resultsDiv>span|cssSelector
+navigationLink		= pagelinks|classname
+lastNav				= Last|linktext
+
+htext					= //*[@id="header"]/p|xpath	
+dcTextBxInDcCal			= createParam.dcNo|id
+vendTextBxInDcCal		= createParam.vendorGrp|id
+typeDrpDwnInDcCal		= type|id
+ruleTypeErr				= Rule Type is mandatory.>li>span
+hTextInDcCal			= fieldset#vendorProfile>legend>span|cssSelector
+
+#Calendar in NW Profile
+
+caledarinNw				= //*[@id="dateRangeLegend"]/span|xpath
+calExpnd				= //*[@id='calendarDiv']/table/tbody/tr[9]/td[1]/label[2]|xpath
+//*[@id='calendarDiv']/table/tbody/tr[9]/td[1]/label[2]
+
+overrideBtn				= arrOverrideNew0|id
+overrideBtn1			= arrOverrideNew1|id
+fromdateInOCNw			= //*[@id="arrOvrFromDate00"]|xpath
+todateInOCNw			= //*[@id="arrOvrToDate00"]|xpath
+AltfromdateInOCNw		= arrOvrFromDate12|id
+AlttodateInOCNw			= arrOvrToDate12|id
+fromdate1InOCNw			= arrOvrFromDate01|id
+todate1InOCNw			= arrOvrToDate01|id
+updateBtnInNw			= input[type='button'][name='newRuleButton'][value='Update']|cssSelector
+cancelBtnInNw			= input[type='button'][name='newRuleButton'][value='Cancel']|cssSelector
+resetBtnInNw			= input[type='button'][name='newRuleButton'][value='Reset']|cssSelector
+
+arrInMon				= arrivalMon00|id
+arrInTue				= arrivalTue00|id
+arrInWed				= arrivalWed00|id
+arrInThu				= arrivalThu00|id
+arrInFri				= arrivalFri00|id
+
+
+arrInMon1				= arrivalMon01|id
+arrInTue1				= arrivalTue01|id
+arrInWed1				= arrivalWed01|id
+arrInThu1				= arrivalThu01|id
+arrInFri1				= arrivalFri01|id
+
+deleteBtnInNw			= span#arrOverrideDelete00>img|cssSelector
+deleteBtnInNw1			= span#arrOverrideDelete01>img|cssSelector
+overDelBtn				= div#secRow0>table>tbody>tr>td:nth-child(13)>div:nth-child(1)>img|cssSelector
+#Standard
+
+arrStdInMon				= arrivalStdMon1|id
+arrStdInTue				= arrivalStdTue1|id
+arrStdInWed				= arrivalStdWed1|id
+arrStdInThu				= arrivalStdThu1|id
+arrStdInFri				= arrivalStdFri1|id
+
+arrStdInMon1			= arrivalStdMon2|id
+arrStdInTue1			= arrivalStdTue2|id
+arrStdInWed1			= arrivalStdWed2|id
+arrStdInThu1			= arrivalStdThu2|id
+arrStdInFri1			= arrivalStdFri2|id
+
+
+
+
+
+
+standardBtn				= arrStandardNew0|id
+stdfrmDateInNw			= arrStdFromDate0|id
+pageheaderText			= fieldset#create>legend>span|cssSelector
+destNoInNwSearch		= srcDestSearchParam.destNo|id
+portOfLoading			= srcDestSearchParam.portOfLoading|name
+portOfDest				= srcDestSearchParam.portOfLoading|name
+deletedProf				= srcDestSearchParam.isDeleted|name
+nwupdateHeaderText		= fieldset#create>legend>span|cssSelector
+errMsgeInNwsrch1		= td#mainTd>table>tbody>tr>td>font>ul>li:nth-child(1)|cssSelector
+errMsgeInNwsrch2		= td#mainTd>table>tbody>tr>td>font>ul>li:nth-child(2)|cssSelector
+
+arrStdFromDate1			= arrStdFromDate1|id
+arrStdFromDate2			= arrStdFromDate2|id
+stdDeleteBtnInNw1		= span#arrStandardDelete1>img|cssSelector
+stdDeleteBtnInNw2		= span#arrStandardDelete2>img|cssSelector
+backBtnInDcCal			= input[type='button'][name='back']|cssSelector
+
+overrideDelConfTxt		= deleteConfirmationText|classname
+nwConsType				= constraintType|id
+nwPrirority				= priorityNetwork|id
+nwTolerance				= tolerance|id
+nwtransport				= transCstperPalt|id
+nwDynDepDClabel			= //*[@id="firstCreateBoxDiv"]/table/tbody/tr[9]/td[1]/label|xpath
+nwautoSuggId			= srcDestCreateParam.dcName_div_lst|id
+dynDepTxtBox			= srcDestCreateParam.dcName|id
+nwaddBtn				= addArticles|id
+
+
+#Override IN TRANSPORT CALENDAR IN NETWORK PROFILE
+
+transportoverCalBtn			= transOverrideNew0|id
+transportOverFromDate1		= transOvrFromDate00|id
+transportOverToDate1		= transOvrToDate00|id
+transportOverFromDate2		= transOvrFromDate01|id
+transportOverToDate2		= transOvrToDate01|id
+trnsportOverDltBtn1			= span#transOverrideDelete00>img|cssSelector
+trnsportOverDltBtn2			= span#transOverrideDelete01>img|cssSelector
+
+trnasCalOverSat				= transportSat00|id
+trnasCalOverSun				= transportSun00|id
+trnasCalOverMon				= transportMon00|id
+trnasCalOverTue				= transportTue00|id
+trnasCalOverWed				= transportWed00|id
+trnasCalOverThu				= transportThu00|id
+trnasCalOverFri				= transportFri00|id
+
+trnasCalOverSat1			= transportSat01|id
+trnasCalOverSun1			= transportSun01|id
+trnasCalOverMon1			= transportMon01|id
+trnasCalOverTue1			= transportTue01|id
+trnasCalOverWed1			= transportWed01|id
+trnasCalOverThu1			= transportThu01|id
+trnasCalOverFri1			= transportFri01|id
+
+#Standard IN TRANSPORT CALENDAR IN NETWORK PROFILE
+
+transportStdCalBtn		= transStandardNew0|id
+transportStdFromDate1	= transStdFromDate1|id
+transportStdFromDate2	= transStdFromDate2|id
+trnsportStdDltBtn1		= span#transStandardDelete1>img|cssselector
+trnsportStdDltBtn2		= span#transStandardDelete2>img|cssselector
+
+
+
+trnasCalStdSat				= transportStdSat1|id
+trnasCalStdSun				= transportStdSun1|id
+trnasCalStdMon				= transportStdMon1|id
+trnasCalStdTue				= transportStdTue1|id
+trnasCalStdWed				= transportStdWed1|id
+trnasCalStdThu				= transportStdThu1|id
+trnasCalStdFri				= transportStdFri1|id
+
+trnasCalStdSat1				= transportStdSat2|id
+trnasCalStdSun1				= transportStdSun2|id
+trnasCalStdMon1				= transportStdMon2|id
+trnasCalStdTue1				= transportStdTue2|id
+trnasCalStdWed1				= transportStdWed2|id
+trnasCalStdThu1				= transportStdThu2|id
+trnasCalStdFri1				= transportStdFri2|id
+distrctInDcCal				= district|id
+
+
+##Sell Time Parameter
+defaultRadioInStp	= SearchByAllSellTime|id
+FshareMenu		  	= Fairshare|linktext
+stpInFshare		  	= Sell Time Parameter|linkText
+createNewStpinput 	= input[type='button'][value='Create Sell Time']|cssSelector
+articledropdown	  	= articleAutoSuggestForm.salesOrg|id
+siteInSearchStp		= searchParam.site|id
+siteInCreateStp		= updateParam.site|id 
+proIdInStp		  	= productId|id
+prodValueInStp	  	= autoSuggestForm.department|id
+seltimeInStp	  	= sellTime|id
+minshelfLifeInStp 	= minShelfLife|id
+saveBtnInStp		= input[type='button'][name='newRuleButton'][value='Save']|cssSelector
+cancelBtnInStp		= input[type='button'][name='cancelButton']|cssSelector
+searchbtnStp		= input[type='button'][value='Search'][name='newRuleButton']|cssSelector
+catValInStp			= updateParam.productValue|id
+searchPageContent	= fieldset#search>legend>span|cssSelector
+autoSuggestValue	= searchParam.site_div_lst|id
+errMsgeInSTtp		= td#mainTd>table>tbody>tr>td>font>ul>li|cssSelector
+searchTotRccStp		= //*[@class='pager']/tbody/tr[1]/td|xpath
+siteinSrchSTP		= searchParam.site|id
+categoryinSrchStp	= searchParam.productValue|id
+displayBySelTimeStp	= SearchBySellTimeOnly|ID
+sellTimeTxtBoxStp	= SellTime|id
+
+seltimeBtwnStp		= SearchBySellTimeBetween|id
+selTimeFrmStp		= SearchBySellTimeFrom|id
+selTimeToStp		= SearchBySellTimeTo|id
+
+deleteInStp			= applicCheckBox|id
+applicableInStp		= deleteCheckBox|id
+resetBtnInStp		= //*[@type='button'][@value='Reset']|xpath
+
+srchRsult			= //*[@class="list"]/tbody/tr[2]/td[1]/a|xpath
+deleteBtn			= //*[@id="contentTD"]/form/input[2]|xpath
+
+siteInUpdateStp		= site|id
+categoryInStp		= createTrdDeptIds|id
+dcDeleteOkCofirm	= ok|id
+salesorgInupdateScrn= divNo|id
+
+catSubCatSegAutoSug	= searchParam.productValue_div_lst|id
+
+
+
+
+
+
+
+
+								#Manage  order Group Profile
+
+
+ogpscreen			= Order Group Profile|linktext
+createBtnInOgp		= input[type='button'][value='Create Order Group Profile']|cssSelector
+groupCodeInOgp		= orderGrpProfileCode|id
+groupDesInOgp		= orderGrpProfileDesc|id
+carrierCodeInOgp	= orderGrpcreateParam.carrierCD|id
+transportCodeInOgp	= transCD|id
+preferredDockInOgp	= defaultVal|id
+minqntyInOgp		= minVal|id
+textVerificationInOgp= fieldset#firstCreateBox>legend>span|cssSelector
+cancelbtnInOgp		= input[type='button'][value='Cancel']|cssSelector
+saveBtnInOgp		= input[type='button'][value='Save']|cssSelector
+
+gCodeMsgeMsgeInOgp	= td#mainTd>table>tbody>tr>td>font>ul>li:nth-child(1)|cssSelector
+carrierCodeMsgeInOgp= td#mainTd>table>tbody>tr>td>font>ul>li:nth-child(2)|cssSelector
+gCodeDescMsgeInOgp	= td#mainTd>table>tbody>tr>td>font>ul>li:nth-child(3)|cssSelector
+groupTypeMsgeInOgp	= td#mainTd>table>tbody>tr>td>font>ul>li:nth-child(4)|cssSelector	
+leadTimeMsgeInOgp	= td#mainTd>table>tbody>tr>td>font>ul>li:nth-child(5)|cssSelector
+
+leadTimeinOgp		= fieldset#leadTime>legend>span|cssSelector
+
+ltLabelInOgp		= div#leadTimeDiv>table>tbody>tr:nth-child(1)>th:nth-child(1)>label|cssSelector
+daysLabelInOgp		= div#leadTimeDiv>table>tbody>tr:nth-child(1)>th:nth-child(2)>label|cssSelector
+SubTotalLabelInOgp	= div#leadTimeDiv>table>tbody>tr:nth-child(1)>th:nth-child(3)>label|cssSelector
+
+prodlabel1InOgp		= div#leadTimeDiv>table>tbody>tr:nth-child(2)>td:nth-child(1)>label|cssSelector
+consollabel1InOgp	= div#leadTimeDiv>table>tbody>tr:nth-child(3)>td:nth-child(1)>label|cssSelector
+translabel1InOgp	= div#leadTimeDiv>table>tbody>tr:nth-child(4)>td:nth-child(1)>label|cssSelector
+foClrInOgp			= div#leadTimeDiv>table>tbody>tr:nth-child(5)>td:nth-child(1)>label|cssSelector
+fumilabel1InOgp		= div#leadTimeDiv>table>tbody>tr:nth-child(6)>td:nth-child(1)>label|cssSelector
+deConlabel1InOgp	= div#leadTimeDiv>table>tbody>tr:nth-child(7)>td:nth-child(1)>label|cssSelector
+
+prodLtInogp			= prodLeadTime|id
+pTotLtInogp			= prodLeadTimeTot|id
+ConsLtInOgp			= consolidate|id
+transLtInOgp		= transLeadTime|id
+transLtotInOgp		= transLeadTot|id
+portLtInOgp			= portLeadtime|id
+fumiLtInogp			= fumigation|id
+dconsLtInogp		= deconsolidate|id
+dConsTotInOgp		= deconsolidateTot|id
+LtTotlaInOgp		= total|id
+
+
+###ArrivalCalendar in OGP
+calInOgp			= legend#dateRangeLegend>span|cssSelector
+arrivalLabelinOgp	= div#calendarDiv>table>tbody>tr:nth-child(9)>td>label:nth-child(1)|cssSelector
+arrMoncheckOnOgp	= arrivalStdMon0|id
+arrTuecheckOnOgp	= arrivalStdTue0|id
+arrWedcheckOnOgp	= arrivalStdWed0|id
+arrThucheckOnOgp	= arrivalStdThu0|id
+arrFricheckOnOgp	= arrivalStdFri0|id
+arrSatcheckOnOgp	= arrivalStdSat0|id
+arrSuncheckOnOgp	= arrivalStdSun0|id
+arrCalFrmDateOgp	= arrStdFromDate0|id
+arrCalToDateOgp		= arrStdToDate0|id
+arrCalOvrBtnOgp		= arrOverrideNew0|id
+arrCalStdBtnOgp		= arrStandardNew0|id
+arrDelBtnOgp		= span#arrStandardDelete0>img|cssSelector
+
+###ShippingCalendar in OGP
+
+shippingLabelinOgp	= div#calendarDiv>table>tbody>tr:nth-child(5)>td>label:nth-child(1)|cssSelector
+shiMoncheckOnOgp	= shippingStdMon0|id
+shiTuecheckOnOgp	= shippingStdTue0|id
+shiWedcheckOnOgp	= shippingStdWed0|id
+shiThucheckOnOgp	= shippingStdThu0|id
+shiFricheckOnOgp	= shippingStdFri0|id
+shiSatcheckOnOgp	= shippingStdSat0|id
+shiSuncheckOnOgp	= shippingStdSun0|id
+shipCalFrmDateOgp	= shipStdFromDate0|id
+shipCalToDateOgp	= shipStdToDate0|id
+shipCalOvrBtnOgp	= shipOverrideNew0|id
+shipCalStdBtnOgp	= shipStandardNew0|id
+shipDelBtnOgp		= span#shipStandardDelete0>img|cssSelector
+
+
+###Order ReviewCalendar in OGP
+
+orderReviewLabelinOgp	= div#calendarDiv>table>tbody>tr:nth-child(1)>td>label:nth-child(1)|cssSelector
+orRvwMoncheckOnOgp	= orderReviewStdMon0|id
+orRvwTuecheckOnOgp	= orderReviewStdTue0|id
+orRvwWedcheckOnOgp	= orderReviewStdWed0|id
+orRvwThucheckOnOgp	= orderReviewStdThu0|id
+orRvwFricheckOnOgp	= orderReviewStdFri0|id
+orRvwSatcheckOnOgp	= orderReviewStdSat0|id
+orRvwSuncheckOnOgp	= orderReviewStdSun0|id
+orRvwpCalFrmDateOgp	= orderStdFromDate0|id
+orRvwCalToDateOgp	= orderStdToDate0|id
+orRvwCalOvrBtnOgp	= orderOverrideNew0|id
+orRvwCalStdBtnOgp	= orderStandardNew0|id
+orRvwDelBtnOgp		= span#orderStandardDelete0>img|cssSelector
+
+###Transport Calendar in OGP
+
+transportLabelinOgp= div#calendarDiv>table>tbody>tr:nth-child(7)>td>label:nth-child(1)|cssSelector
+transMoncheckOnOgp	= transportStdMon0|id
+transTuecheckOnOgp	= transportStdTue0|id
+transWedcheckOnOgp	= transportStdWed0|id
+transThucheckOnOgp	= transportStdThu0|id
+transFricheckOnOgp	= transportStdFri0|id
+transSatcheckOnOgp	= transportStdSat0|id
+transSuncheckOnOgp	= transportStdSun0|id
+transpCalFrmDateOgp	= transStdFromDate0|id
+transCalToDateOgp	= transStdToDate0|id
+transCalOvrBtnOgp	= transOverrideNew0|id
+transCalStdBtnOgp	= transStandardNew0|id
+transDelBtnOgp		= span#transStandardDelete0>img|cssSelector
+
+###Working Calendar in OGP
+
+workingLabelinOgp		= div#calendarDiv>table>tbody>tr:nth-child(3)>td>label:nth-child(1)|cssSelector
+workingMoncheckOnOgp	= div#calendarDiv>table>tbody>tr:nth-child(3)>td:nth-child(2)>input|cssSelector
+workingTuecheckOnOgp	= div#calendarDiv>table>tbody>tr:nth-child(3)>td:nth-child(3)>input|cssSelector
+workingWedcheckOnOgp	= div#calendarDiv>table>tbody>tr:nth-child(3)>td:nth-child(4)>input|cssSelector
+workingThucheckOnOgp	= div#calendarDiv>table>tbody>tr:nth-child(3)>td:nth-child(5)>input|cssSelector
+workingFricheckOnOgp	= div#calendarDiv>table>tbody>tr:nth-child(3)>td:nth-child(6)>input|cssSelector
+workingSatcheckOnOgp	= div#calendarDiv>table>tbody>tr:nth-child(3)>td:nth-child(7)>input|cssSelector
+workingSuncheckOnOgp	= div#calendarDiv>table>tbody>tr:nth-child(3)>td:nth-child(8)>input|cssSelector
+workingpCalFrmDateOgp	= div#calendarDiv>table>tbody>tr:nth-child(3)>td:nth-child(9)>input|cssSelector
+workingCalToDateOgp		= div#calendarDiv>table>tbody>tr:nth-child(3)>td:nth-child(10)>input|cssSelector
+workingCalOvrBtnOgp		= div#calendarDiv>table>tbody>tr:nth-child(3)>td:nth-child(11)>div>input:nth-child(1)|cssSelector
+workingCalStdBtnOgp		= div#calendarDiv>table>tbody>tr:nth-child(3)>td:nth-child(11)>div>input:nth-child(2)|cssSelector
+workingDelBtnOgp		= div#calendarDiv>table>tbody>tr:nth-child(3)>td:nth-child(11)>div>div>span>img:nth-child(1)|cssSelector
+
+
+
+
+buildGrpInOgp			= buildID|id
+windscheduleLabel		= legend#StockBuildParamsLegend>span|cssSelector
+winSchdRows				= div#StockBuildParamsDiv>table>tbody>tr|cssSelector
+HeaderTextInOgp			= fieldset#create>legend>span|cssSelector
+
+orderGrpCodeInOGp		= orderGrpsearchParam.orderGrpProfileCode|id
+orderGrpDscInOGp		= orderGrpsearchParam.orderGrpProfileDesc|id
+srchBtnInogp			= input[type='button'][value='Search']|cssSelector
+srchResultInOgp			= //*[@id="searchresults"]/div/table[2]/tbody/tr[1]/td|xpath
+grpCodeInSrchOgp		= //*[@id='searchresults']/div/table[1]/tbody/tr[2]/td[1]/a|xpath
+grpCodeDescInSrchOgp	= //*[@id='searchresults']/div/table[1]/tbody/tr[2]/td[2]|xpath
+								#Safety Stock lag
+			## Create Screen
+			
+safetyStockMenu			= Safety Stock|linktext
+safetystacklagScreen	= DC Statistical Safety Stock Lag - R3 Upgrade|linktext	
+		
+loclLevelInSsl			= LocationLvl|id
+geographyValInSsl		= dcStatLagFormR3.createParam.locationLvlName|id
+countryValInSsl			= countryid|id
+
+
+prodValInSssl			= ProdLvl|id
+prodLevelValInSsl		= dcStatLagFormR3.createParam.prodLvlName|id
+
+salesorgInSsl			= salesOrgId|id
+fromDtaeInSsl			= fromDate|id
+EndDtaeInSsl			= endDate|id
+statSslaginSssl			= dcSafetyStockActionR3_dcStatLagFormR3_createParam_statSSLag|id							
+
+createNewSslinput 	= input[type='button'][value='Create Safety Stock']|cssSelector
+saveBtnInSsl		= input[type='button'][value='Save']|cssSelector
+cancelBtnInSsl		= input[type='button'][value='Cancel']|cssSelector
+searchbtnSsl		= input[type='button'][value='Search']|cssSelector
+UpdatebtnSsl		= input[type='button'][value='Update']|cssSelector
+sysCalInCreateSsl	= dcSafetyStockActionR3_dcStatLagFormR3_createParam_systemCalcFlag|id
+sysCalInSearchSsl	= dcStatLagActionLoadR3_dcStatLagFormR3_searchParam_systemCalcFlag|id
+
+
+			##Search Screen
+
+geoValInSearchSsl	= dcStatLagFormR3.searchParam.locationLvlName|id
+prodValInSearchSsl	= dcStatLagFormR3.searchParam.prodLvlName|id
+dateStartBtwnInSsl	= SearchByStartDate2|id
+#searchRsultInSsl	= table#row>tbody>tr>td:nth-child(1)>a|cssSelecotr
+searchRsultInSsl	= //*[@id="row"]/tbody/tr/td[1]/a|xpath
+deletebtnSsl		= input[type='button'][value='Delete']|cssSelector
+		
+totRecsInSsl		= table.list>tbody>tr>td:nth-child(1)>img|cssSelector			
+pageObjInSsl		= pagebanner|classname
+
+
+
+
+
+
+
+				#DC Safety Stock - R3 Upgrade
+				
+dcSafetyStock		= DC Safety Stock - R3 Upgrade|linktext
+productlevelInCrtSsl= dcSafetyStockFormR3.createParam.prodLvlName|id
+productlvelInSrchSsl= dcSafetyStockFormR3.searchParam.prodLvlName|id
+
+
+
+
+rolloutInCreSsl		= rollOutCheckBox|id
+safetyStocktype		= safetyStock|id
+itemclassInSsl		= itemClass|id
+ssMinValInSs		= dcSafetyStockActionR3_dcSafetyStockFormR3_createParam_safetyStockMinVal|id
+ssMaxValInSs		= dcSafetyStockActionR3_dcSafetyStockFormR3_createParam_safetyStockMaxVal|id
+
+
+			#Store Safety Stock - New Line
+			
+storeSafetyStockScn	=	Store Safety Stock - New Line|linktext
+salesOrgInsss		=	salesOrg|id
+departmentInsss		=	department|id
+minValInsss			=	safetyStockMinVal|id
+saveInsss			= 	input[type='button'][value='Save']|cssSelector
+searchInsss			= 	input[type='button'][value='Search']|cssSelector
+resetInsss			= 	input[type='button'][value='Reset']|cssSelector
+
+minSSSInUpdateScrn	=	minValueId0|id
+updateInsss			= 	input[type='button'][value='Update']|cssSelector
+deleteInsss			= 	input[type='button'][value='Delete']|cssSelector
+exportInsss			= 	input[type='button'][value='Export']|cssSelector
+
+
+checkBoxInSss		= 	table.list>tbody>tr:nth-child(1)>td:nth-child(1)|cssSelector
+checkBoxInSss1		= 	table.list>tbody>tr:nth-child(2)>td:nth-child(1)|cssSelector
+salesOrgInSssSrch	= 	table.list>tbody>tr:nth-child(1)>td:nth-child(2)|cssSelector
+departmentInSssSrch	= 	table.list>tbody>tr:nth-child(1)>td:nth-child(3)|cssSelector
+
+
+
+
+## Calendar Mass Maintenance
+
+
+cmmlink					= Calendar Mass Maintenance|linktext
+networkRadiBtnInCmm	 	= netwrk|id
+artTextBoxInCmm			= searchParam.articleGroup|id
+artGrplabelInCmm		= //*[@id="netwrkDivAg"]/td[1]/label|xpath
+errMsgInCmm				= //*[@id="mainTd"]/table/tbody/tr[1]/td/font/ul/li|xpath
+startDteLblInCMM		= //*[@id="sourceSpan"]/label|xpath
+endDteLblInCMM		    = //*[@id="sourceSpan"]/label|xpath
+fromDteInCMM			= fromDate|id
+toDteInCMM				= toDate|id
+replenisherInCMM		= searchParam.replenisher|id
+calendarTypelblInCMM	= //*[@id="createArrCal"]/table[1]/tbody/tr[2]/td[1]/label|xpath
+replenisherLblInCMM		= //*[@id="netwrkDiv"]/td[1]/label|xpath
+allDCDestLblInCMM		= //*[@id="MondayDaily"]/td[2]/label|xpath
+districtDestLblInCMM	= //*[@id="dcTable"]/tbody/tr[2]/td[2]/label|xpath
+addDCLblInCMM			= //*[@id="dcTable"]/tbody/tr[3]/td[2]/label|xpath
+allDCVendorsLblInCMM	= //*[@id="vendorTable"]/tbody/tr[1]/td[2]/label[1]|xpath
+districtLblSourceInCMM	= //*[@id="vendorTable"]/tbody/tr[2]/td[2]/label[1]|xpath
+addSourceLblInCMM		= //*[@id="vendorTable"]/tbody/tr[3]/td[2]/label[1]|xpath
+allTypeCalInCMM			= //*[@id="createArrCal"]/table[1]/tbody/tr[2]/td[2]/label[1]|xpath
+allTypeChkBoxInCMM		= _ALL|id
+WOCalTypeChkBoxInCMM	= _WO|id
+ORCalTypeChkBoxInCMM	= _OR|id
+SHCalTypeChkBoxInCMM	= _SH|id
+TRCalTypeChkBoxInCMM	= _TR|id
+ARCalTypeChkBoxInCMM	= _AR|id
+workingTypeCalInCMM		= //*[@id="createArrCal"]/table[1]/tbody/tr[2]/td[2]/label[2]|xpath
+oRTypeCalInCMM			= //*[@id="createArrCal"]/table[1]/tbody/tr[2]/td[2]/label[3]|xpath
+sHTypeCalInCMM			= //*[@id="createArrCal"]/table[1]/tbody/tr[2]/td[2]/label[4]|xpath
+tRTypeCalInCMM			= //*[@id="createArrCal"]/table[1]/tbody/tr[2]/td[2]/label[5]|xpath
+aRTypeCalInCMM			= //*[@id="createArrCal"]/table[1]/tbody/tr[2]/td[2]/label[6]|xpath
+destFilterInCMM			= //*[@id="dcFilter"]/fieldset/legend/span|xpath
+srcFilterInCMM			= //*[@id="vendorFilter"]/fieldset/legend/span|xpath
+viewLinkInCMM			= expandingButton0|id
+viewLinkOverRide		= expanding0|id
+standardCal1InCMM		= checkStandards0|id
+orderGrpRadioOptInCMM 	= orderGrp|id
+resetButtonInCmm		= Reset|name
+multiDCRadioOptInCMM	= multipleDc|id
+multiDCTxtBoxInCMM		= singleDc|id
+multiVndrRadioOptInCMM	= multipleVendor|id
+multiVndrTxtBoxInCMM	= singleVendor|id
+tuesFirstCalChkBoxInCMM	= //*[@id="tueStd-0-0"]|xpath
+tuesFirstCalValInCMM	= //*[@id="hid.tueStd-0-0"]|xpath
+updateBtnInCMM			= //*[@id="resultsDiv"]/div/table/tbody/tr/td/input|xpath
+updateMsgInCMM			= //*[@id="mainTd"]/table/tbody/tr[2]/td/font/div|xpath
+ruleidRow1InCMM			= //*[@id="mainTable"]/tbody/tr[2]/td[1]|xpath
+caltypeRow1InCMMw		= //*[@id="mainTable"]/tbody/tr[2]/td[2]|xpath
+ArticlegropuRow1InCMM	= //*[@id="mainTable"]/tbody/tr[2]/td[5]|xpath
+startdateRow1InCMM		= //*[@id="mainTable"]/tbody/tr[2]/td[6]|xpath
+enddateRow1InCMM		= //*[@id="mainTable"]/tbody/tr[2]/td[7]|xpath
+mondayRow1InCmm			= //*[@id="monStd-0-0"]|xpath
+tuesdayRow1InCmm		= //*[@id="tueStd-1-0"]|xpath
+wednesdayRow1InCmm		= //*[@id="wedStd-1-0"]|xpath
+thursdayRow1InCmm		= //*[@id="thuStd-1-0"]|xpath
+fridayRow1InCmm		    = //*[@id="friStd-1-0"]|xpath
+saturdayRow1InCmm		= //*[@id="satStd-1-0"]|xpath
+sundayRow1InCmm			= //*[@id="sunStd-1-0"]|xpath
+addDCdcButtonInCmm		= dcButton|id
+addVendorButtonInCmm	= vendorButton|id
+numb1					= div#resultsDiv>table:nth-child(1)>tbody>tr:nth-child(1)>td:nth-child(1)|cssSelector
+caltypeRow1InCMM		= div#resultsDiv>table:nth-child(1)>tbody>tr:nth-child(1)>td:nth-child(2)|cssSelector
+sourcerow2InCMM			= div#resultsDiv>table:nth-child(1)>tbody>tr:nth-child(2)>td:nth-child(3)|cssSelector
+destinationrow2InCMM	= div#resultsDiv>table:nth-child(1)>tbody>tr:nth-child(2)>td:nth-child(4)|cssSelector
+ArticlegropuRow1InCMM	= div#resultsDiv>table:nth-child(1)>tbody>tr:nth-child(1)>td:nth-child(5)|cssSelector
+startdateRow1InCMM		= div#resultsDiv>table:nth-child(1)>tbody>tr:nth-child(1)>td:nth-child(6)|cssSelector
+enddateRow1InCMM		= div#resultsDiv>table:nth-child(1)>tbody>tr:nth-child(1)>td:nth-child(7)|cssSelector
+div#resultsDiv>table:nth-child(1)>tbody>tr:nth-child(1)>td:nth-child(8)|cssSelector
+div#resultsDiv>table:nth-child(1)>tbody>tr:nth-child(1)>td:nth-child(9)|cssSelector
+startdateOverRideRow1 	= //*[@id="checkOverrides0"]/tbody/tr/td[2]|xpath
+enddateOverRideRow1		= //*[@id="checkOverrides0"]/tbody/tr/td[3]|xpath
+mondayOverRideRow1		= //*[@id="monOvrd-0-0"]|xpath
+tuesdaydayOverRideRow1	= //*[@id="tueOvrd-0-0"]|xpath
+wednesdayOverRideRow1	= //*[@id="wedOvrd-0-0"]|xpath
+thursdayOverRideRow1	= //*[@id="thuOvrd-0-0"]|xpath
+fridayOverRideRow1		= //*[@id="friOvrd-0-0"]|xpath
+saturdayOverRideRow1	= //*[@id="satOvrd-0-0"]|xpath
+sundayOverRideRow1		= //*[@id="sunOvrd-0-0"]|xpath
+
+## PO Search Screen
+
+POSearchLink			= PO Search|linktext
+DCNumberTextBox			= poSearchParam.destNo|id
+DCNumberPullDownList	= poSearchParam.destNo_div_lst|id
+DCGroupTextBox			= poSearchParam.dcGroup|id
+orderTypeDropDown		= defaultVal|id
+PONumberTextBox			= repId|id
+fromDateTextBox			= slotFromDate|id
+toDateTextBox			= slotToDate|id
+deliveryDockDropDown	= preferredDock|id
+createdDateTextBox		= createdDate|id
+vendorNumberTextBox		= poSearchParam.sourceNo|id
+replenisherCodeTextBox	= poSearchParam.replenisherID|id
+carrierTextBox			= poSearchParam.carrier|id
+exceptionTypeDropDown	= excepType|id
+exceptionTypeCheckBox	= excepCheck|id
+statusDropDown			= status|id	
+statusTypeDropDown		= poSearchParam.status|id
+prioritychangeRow1Link	= //*[@id="searchresults"]/table[1]/tbody/tr[2]/td[18]/a|xpath
+minCoverageDuration1	= //*[@id="searchresults"]/table/tbody/tr[2]/td[2]|xpath
+minCoverageDuration2	= //*[@id="searchresults"]/table/tbody/tr[3]/td[2]|xpath
+minCoverageDuration3	= //*[@id="searchresults"]/table/tbody/tr[4]/td[2]|xpath
+minCoverageDuration4	= //*[@id="searchresults"]/table/tbody/tr[5]/td[2]|xpath
+minCoverageDuration5	= //*[@id="searchresults"]/table/tbody/tr[6]/td[2]|xpath
+minCoverageDuration6	= //*[@id="searchresults"]/table/tbody/tr[7]/td[2]|xpath
+minCoverageDuration7	= //*[@id="searchresults"]/table/tbody/tr[8]/td[2]|xpath
+minCoverageDuration8	= //*[@id="searchresults"]/table/tbody/tr[9]/td[2]|xpath
+minCoverageDuration9	= //*[@id="searchresults"]/table/tbody/tr[10]/td[2]|xpath
+minCoverageDuration10	= //*[@id="searchresults"]/table/tbody/tr[11]/td[2]|xpath
+POnumberRow1Link		= //*[@id="searchresults"]/table/tbody/tr[2]/td[1]|xpath
+POnumberRow1LinkSearch	= //*[@id="searchresults"]/table[1]/tbody/tr[2]/td[1]/a|xpath
+DCNoRow1				= //*[@id="searchresults"]/table[1]/tbody/tr[2]/td[4]|xpath
+vendorNORow1			= //*[@id="searchresults"]/table[1]/tbody/tr[2]/td[5]|xpath
+delivaryDateRow1		= //*[@id="searchresults"]/table[1]/tbody/tr[2]/td[7]|xpath
+DCExpandButtonInAction	= //*[@id="tableNot0"]/td/span|xpath
+vendorNoInAction		= //*[@id="vendor00"]|xpath
+delivaryDateInAction	= //*[@id="row0"]/td[4]|xpath
+dockTypeDropDown		= preferredDock|id
+rosterNameTextBox		= rosterName|id
+searchButton			= //*[@id="createBox"]/table/tbody/tr[8]/td/input[1]|xpath
+resetButton				= //*[@id="createBox"]/table/tbody/tr[8]/td/input[2]|xpath
+DCNumberInRow1			= //*[@id="searchresults"]/table[1]/tbody/tr[2]/td[4]|xpath
+vendorNumberInRow1		= //*[@id="searchresults"]/table[1]/tbody/tr[2]/td[5]|xpath
+deliveryDateInRow1		= //*[@id="searchresults"]/table[1]/tbody/tr[2]/td[7]|xpath
+
+
+##   COntainder Details -->  Article Rework Time Screen
+
+
+containerDetailsMenu	= Container Prioritisation|linktext
+articleReworkTimeSubMenu= Article Rework Time|linktext
+searchButton			= Search|id
+saveButton				= Save|id
+updateButton			= Update|id
+deleteButton			= Delete|id
+delete_OKButton			= ok|id
+articleTextBox			= autoSuggestForm.article|id
+reWorkTimeTextBox		= reworkTimeID|id
+startDateTextBox		= effStartDate|id
+endDateTextBox			= effEndDate|id		
+successMessage			= //*[@id="mainTd"]/table/tbody/tr[2]/td/font/ul/li/span|xpath						  
+ruleID					= #attr.row.ruleID|id
+
+
+##   Inventory -->  Article supersession
+
+masterDataMenu			= Master Data|linktext
+articleSupersessionMenu	= Article Supersession|linktext
+newArticleTextBoxinAS	= autoSuggestForm.newArticle|id
+oldArticleTextBoxinAS	= autoSuggestForm.oldArticle|id
+siteinAS				= autoSuggestForm.site|id
+startDateTextBoxinAS	= effStartDate|id
+endDateTextBoxinAS		= effEndDate|id
+srchBtninASnotused		= //*[@id="searchArticleItems"]/table/tbody/tr[5]/td/input[1]|xpath
+createASButtoninAS	= //*[@id="supersessionFormID"]/input|xpath
+createButtoninAS		= createButton|name
+cancelButtoninAS		= cancelButton|name
+saveButtoninAS			= savesupersessButton|name
+searchButtoninAS		= newRuleButton|name
+ruleIDRow1				= .//table[@id="row"]/tbody/tr[1]/td[1]
+ruleIDRow2				= .//table[@id="row"]/tbody/tr[2]/td[1]
+successsMessageinAS		= //*[@id="mainTd"]/table/tbody/tr[2]/td/font/ul/li/span|xpath
+deleteButtoninAS		= delete|id
+deleteOKButtoninAS		= ok|id
+
+##   Inventory -->  DSD SOH
+
+					
+fairshareMenu			= Fairshare|linktext
+DSDSOHSubMenu			= DSD SOH|linktext
+siteTextBoxInDSDSOH		= autoSuggestForm.site|id
+articleTextBoxInDSDSOH	= autoSuggestForm.article|id
+searchButtonInDSDSOH	= searchRuleButton|name
+createInDSDSOH			= createdsdsohButton|name
+applicCheckBoxInDSDSOH	= deleteCheckBox|id
+						deleteCheckBox
+quantityInDSDSOH		= sohqty|id
+quantityEditInDSDSOH	= _dsdSohForm_dsdSohCreateParam_sohQty|id
+dateInDSDSOH			= effDate|id
+saveButtonInDSDSOH		= save|id
+updateButtonInDSDSOH	= update|id
+deleteButtonInDSDSOH	= delete|id
+cancelButtonInDSDSOH	= canceldsdSohButton|name
+successMessageInDSDSOH 	= //*[@id="mainTd"]/table/tbody/tr[2]/td/font/ul/li/span|xpath
+
+
+##  Site Order Optimization
+
+siteOptimizationMenu		= Site Order Optimization|linktext
+siteOptimizationSubMenu		= Site Optimization|linktext
+supplierTypeInSiteOpt		= supplierType|id
+supplierTextBoxInSiteOpt	= siteOptimizationSearchParam.dcVendorNumName|id
+supplierTextBoxInSiteOptCrea= siteOptimizationCreateParam.dcVendorNumName|id
+ruleIdRow1InSiteOpt			= //*[@id="siteOptimizationToggleResults"]/div/table[1]/tbody/tr[2]/td[1]/a|xpath
+ruleIdRow2InSiteOpt			= //*[@id="siteOptimizationToggleResults"]/div/table[1]/tbody/tr[3]/td[1]/a|xpath
+dateToTextBoxInSiteOpt		= dateTo|id
+dateFromTextBoxInSiteOpt	= dateFrom|id
+createOrderCheckBoxInSiteOpt= createOrder|id
+tprpTextBoxInSiteOpt		= tprp|id
+suspendRuleYesInSiteOpt		= suspendRule0|id
+suspendRuleNoInSiteOpt		= suspendRule1|id
+suspFromDateTextBoxInSiteOpt= suspendFromDate|id
+suspToDateTextBoxInSiteOpt	= suspendToDate|id
+saveButtonInSiteOpt			= //*[@id="mainTd"]/input[1]|xpath
+cancelButtonInSiteOpt		= //*[@id="mainTd"]/input[3]|xpath
+cancelButtonInSiteOptCreate	= //*[@id="mainTd"]/input[2]|xpath
+SearchheaderInSiteOpt		= //*[@id="search"]/legend|xpath
+searchButtonInSiteOpt		= //*[@id="searchBox"]/table[2]/tbody/tr/td/div/input[1]|xpath
+deleteButtonInSiteOpt		= deleteFill|name
+addSiteButtonInSiteOpt		= //*[@id="itemDiv"]/table/tbody/tr[2]/td/input|xpath
+successMessageInSiteOpt		= //*[@id="mainTd"]/table/tbody/tr[2]/td/font/div|xpath
+siteTypeDropdownInSiteOpt	= detailSiteOptType|id
+siteToAddInSiteOpt			= siteOptimizationCreateParam.siteNoName|id
+siteStratDateInSiteOpt		= startDate1|id
+siteEndDateInSiteOpt		= endDate1|id
+siteIncludeOptionInSiteOpt	= includeExclude0|id
+siteExcludeOptionInSiteOpt	= includeExclude1|id
+createRuleButtonInSiteOpt	= //*[@id="contentTD"]/form/table[2]/tbody/tr/td/input|xpath
+applicCheckBoxInSiteOpt		= //*[@id="deleteCheckBox"]|xpath
+multiTextBoxInSiteOpt		= mulOf|id
+minTextBoxInSiteOpt			= minOf|id
+layerRoundCheckBoxInSiteOpt	= layerRoundingCheck|id
+roundDCCheckBoxInSiteOpt	= avilRoundingCheck|id
+
+
+
+## Stock build Store
+
+
+					
+orderUptoMenuInStkBld		= Order Up To|linktext
+mngOrdUptoRulesInStkBld		= Manage Order Up To Rules|linktext
+createRuleButtonInStkBld	= //*[@id="contentTD"]/form/input[4]|xpath
+locationDropDownInStkBld	= OrganizationLevel|id
+productDropDownInStkBld		= ProductLevel|id
+locationTextBoxInStkBld		= orderUptoDetailParam.locationLevelNoDesc|id
+locationTextBoxSrchInStkBld = orderUptoEnquirySearchParam.locationLevelNoDesc|id
+productTextBoxInStkBld		= orderUptoDetailParam.itemLevelNoDesc|id
+productTextBoxSubCatInStkBld= autoSuggestForm.subCategory|id
+productTextBoxSrchInStkBld	= orderUptoEnquirySearchParam.itemLevelNoDesc|id
+supplierTextBoxInStkBld		= orderUptoDetailParam.warehouseNoDesc|id
+supplierTextSrchBoxInStkBld	= orderUptoEnquirySearchParam.warehouseNoDesc|id
+allDaysCheckBoxInStkBld		= recurrencePatternAllday|id
+allNeedTextBoxInStkBld		= orderUptoDetailParam.buildAheadDays.allNeed|name
+allWantTextBoxInStkBld		= orderUptoDetailParam.buildAheadDays.allWant|name
+mondayCheckBoxInStkBld		= recurrencePatternMonday|id
+monNeedTextBoxInStkBld		= orderUptoDetailParam.buildAheadDays.monNeed|name
+monWantTextBoxInStkBld		= orderUptoDetailParam.buildAheadDays.monWant|name
+tuesDayCheckBoxInStkBld		= recurrencePatternTuesday|id
+tueNeedTextBoxInStkBld		= orderUptoDetailParam.buildAheadDays.tueNeed|name
+tueWantTextBoxInStkBld		= orderUptoDetailParam.buildAheadDays.tueWant|name
+wednesDayCheckBoxInStkBld	= recurrencePatternWednesday|id
+wedNeedTextBoxInStkBld		= orderUptoDetailParam.buildAheadDays.wedNeed|name
+wedWantTextBoxInStkBld		= orderUptoDetailParam.buildAheadDays.wedWant|name
+thursDayCheckBoxInStkBld	= recurrencePatternThursday|id
+thuNeedTextBoxInStkBld		= orderUptoDetailParam.buildAheadDays.thuNeed|name
+thuWantTextBoxInStkBld		= orderUptoDetailParam.buildAheadDays.thuWant|name
+friDayCheckBoxInStkBld		= recurrencePatternFriday|id
+friNeedTextBoxInStkBld		= orderUptoDetailParam.buildAheadDays.friNeed|name
+friWantTextBoxInStkBld		= orderUptoDetailParam.buildAheadDays.friWant|name
+saturDayCheckBoxInStkBld	= recurrencePatternSaturday|id
+satNeedTextBoxInStkBld		= orderUptoDetailParam.buildAheadDays.satNeed|name
+satWantTextBoxInStkBld		= orderUptoDetailParam.buildAheadDays.satWant|name
+sunDayCheckBoxInStkBld		= recurrencePatternSunday|id
+sunNeedTextBoxInStkBld		= orderUptoDetailParam.buildAheadDays.sunNeed|name
+sunWantTextBoxInStkBld		= orderUptoDetailParam.buildAheadDays.sunWant|name
+startDateRecurringInStkBld	= startDateRecurruingRule|id
+endDateRecurringInStkBld	= endDateRecurringRule|id
+saveRuleButtonInStkBld		= saveRule|name
+cancelButtonInStkBld		= cancel|name
+updateRuleButtonInStkBld	= updateRuleButton|name
+deleteRuleButtonInStkBld	= delete|name
+deleteButtonInStkBld		= //*[@id="contentTD"]/form/input[3]|xpath
+searchButtonInStkBld		= //*[@id="SearchOrderUpToRulesDiv"]/table/tbody/tr[4]/td/input[1]|xpath
+successMessageInStkBld		= //*[@id="mainTd"]/table/tbody/tr[2]/td/font/div|xpath
+OutNoTabInStkBld			= //*[@id="contentTD"]/form/div[2]/table[1]/tbody/tr[1]/th[1]/span|xpath
+ruleIdRow1InStkBld			= //*[@id="contentTD"]/form/div[2]/table[1]/tbody/tr[2]/td[1]/input|xpath
+salesOrgDropdownSrchInStkBld= orderUptoForm.searchParam.salesOrg|id
+salesOrgDropdownCrtenStkBld	= orderUptoCreateForm.searchParam.salesOrg|id
+maxShelfAllInSTkBld			= maxPerShelfCapacityallWant|id
+minShelfAllInSTkBld			= minPerShelfCapacityallNeed|id
+foreCastAllInSTkBld			= perWeekForecastallNeed|id
+minQntyAllInSTkBld			= minOpeningQtyAllNeed|id
+excludeAInStkBld			= ExcludeAClassItems|id
+excludeBInStkBld			= ExcludeBClassItems|id
+excludeCInStkBld			= ExcludeCClassItems|id
+excludeDInStkBld			= ExcludeDClassItems|id
+excludeEInStkBld			= ExcludeEClassItems|id
+excludeFInStkBld			= ExcludeFClassItems|id
+excludeGInStkBld			= ExcludeGClassItems|id
+reasonCodeDropDownInStkBld	= ReasonCode|id
+reasonCommentsInStkBld		= orderUptoDetailParam.justificationComments|name	
+createExclusionYesInStkBld	= createExclusion|id	
+noRecurRuleEndDate			= endDateTypeRecurringRule2|id					  
+
+## Stock build DC
+
+
+orderUptoMenuInStkBldDC				= Order Up To|linktext
+mngOrdUptoRulesInStkBldDC			= Manage DC Order Up To Rules|linktext
+createRuleButtonInStkBldDC			= //*[@id="contentTD"]/form/input[4]|xpath
+locationDropDownInStkBldDC			= OrganizationLevel|id
+productDropDownInStkBldDC			= ProductLevel|id
+locationTextBoxInStkBldDC			= orderUptoDetailParam.fflocationLevelNoDesc|id
+locationTextBoxSrchInStkBldDC 		= orderUptoEnquirySearchParam.locationLevelNoDesc|id
+productTextBoxInStkBldDC			= orderUptoDetailParam.itemLevelNoDesc|id
+productTextBoxSubCatInStkBldDC		= autoSuggestForm.subCategory|id
+productTextBoxSrchInStkBldDC		= orderUptoEnquirySearchParam.itemLevelNoDesc|id
+supplierTextBoxInStkBldDC			= orderUptoDetailParam.warehouseNoDesc|id
+supplierTextSrchBoxInStkBldDC		= orderUptoEnquirySearchParam.warehouseNoDesc|id
+successMessageInStkBldDC			= //*[@id="mainTd"]/table/tbody/tr[2]/td/font/div|xpath
+countryTypeDropDownInStkBldDC		= countrylistId|id
+searchButtonInStkBldDC				= //*[@id="SearchOrderUpToRulesDiv"]/table/tbody/tr[4]/td/input[1]|xpath
+maxPershelfCapacityInStkBldDC		= maxPerShelfCapacityallNeed|id								
+buildAheadDaysAllNeedInStkBldDC		= buildAheadDaysallNeed|id
+OutNoTabInStkBldDC					= //*[@id="searchResultsDiv"]/div/table[1]/tbody/tr[1]/th[1]/span|xpath
+ruleIdRow1InStkBldDC				= //*[@id="searchResultsDiv"]/div/table[1]/tbody/tr[2]/td[1]/input|xpath
+salesOrgDropdownCrtenStkBldDC		= dcOrderUptoCreateForm.searchParam.salesOrg|id
+salesOrgDropdownSrchInStkBldDC		= dcOrderUptoSearchForm.searchParam.salesOrg|id
+
+
+
+##  DC Shelf life activation
+
+FairshareMenuInShlfAct				= Fairshare|linktext
+DCShlfActivationMenuInShlfAct		= DC Shelf Life Activation|linktext
+createRuleButtonInShlfAct			= //*[@id="contentTD"]/form/input[4]|xpath
+vendorDCDropDownInShlfAct			= autoSuggestForm.fairshareAutoSuggest|id
+vendorDCTextBoxInShlfAct			= dcShelfLifeSearchParam.dcVendorNo|id
+vendorDCTextBoxUpdateInShlfAct		= dcShelfLifeUpdateParam.dcVendorNo|id
+articleTextBoxInShlfAct				= dcShelfLifeSearchParam.article|id
+searchButtonInShlfAct				= //*[@id="searchBox"]/table[2]/tbody/tr/td/div/input[1]|xpath
+applicableCheckBoxInShlfAct			= dcShelfLifeSearchParam.deleteCheck|name
+deletedCheckBoxInShlfAct			= applicCheckBox|id
+ruleIDTabInShlfAct					= //*[@id="overlaysToggleResults"]/div/table[1]/tbody/tr[1]/th[1]/span|xpath
+ruleRow1InShlfAct					= //*[@id="overlaysToggleResults"]/div/table[1]/tbody/tr[2]/td[1]/a|xpath
+deleteRuleButtonInShlfAct			= //*[@id="contentTD"]/form/div[3]/input[2]|xpath
+updateRuleButtonInShlfAct			= //*[@id="contentTD"]/form/div[3]/input[1]|xpath
+cancelRuleButtonInShlfAct			= //*[@id="contentTD"]/form/div[3]/input[3]|xpath
+successMessageInShlfAct				= //*[@id="mainTd"]/table/tbody/tr[2]/td/font/div|xpath
+deleteArticleButtonInShlfAct		= //*[@id="itemDiv"]/table[2]/tbody/tr/td/table/tbody/tr/td[5]/input|xpath
+articleTextBoxUpdateInShlfAct		= dcShelfLifeUpdateParam.article|id
+varianceTextBoxInShlfAct			= variance|id
+shelfLifeTextBoxInShlfAct			= shelflife|id
+addArticleButtonInShlfAct			= //*[@id="itemDiv"]/table[1]/tbody/tr[4]/td/input|xpath
+delete_OKButtonInShlfAct			= ok|id
+displayRecords						= //*[@id="overlaysToggleResults"]/div/table[2]/tbody/tr[1]/td|xpath
+
+shelfLifeUpdateTextBoxInShlfAct		= txtshelflife|id
+varianceUpdateTextBoxInShlfAct		= txtvariance|id
+updateArticleButtonInShlfAct		= //*[@id="itemDiv"]/table[2]/tbody/tr/td/table/tbody/tr/td[6]/input|xpath
+
+
+
+				#========Article Supersession=============# 
+
+masterMenuName		= Master Data|linktext
+artSuper			= Article Supersession|linktext
+ASCreateArSpS 		= input[type='submit'][value='Create Article Supersession']|cssSelector
+ASnewArticle 		= autoSuggestForm.newArticle|id
+ASaltArticle		= autoSuggestForm.oldArticle|id
+ASsalesOrgDrpDwn	= salesOrg|id
+ASSite				= autoSuggestForm.site|id
+ASeffStartDate		= effStartDate|id
+ASeffEndDate		= effEndDate|id
+ASCreateBtn			= input[type='button'][name='createButton']|cssSelector	
+
+AsfirstErrMsge 		= ul.errorMessage>li:nth-child(1)>span|cssSelector
+AssecondErrMsge 	= ul.errorMessage>li:nth-child(2)>span|cssSelector
+AsthirdErrMsge 		= ul.errorMessage>li:nth-child(3)>span|cssSelector
+AsfourthErrMsge 	= ul.errorMessage>li:nth-child(4)>span|cssSelector
+****************************************Promo****************
+
+
+ErrmsgPF           = //*[@id="mainTd"]/table/tbody/tr[2]/td/font/ul/li/span|xpath
+loctntxtbxPF         = autoSuggestForm.implOLCS|id
+loctntxtbx1PF       = buildQtyPromoEndTypeForm.buildQtyPromoEndTypeCreateParam.locationValue|id
+deptPF               = department|id
+distypPF             = displayType|id
+eendtyPF             = //*[@id="endType"]/option[3]|xpath
+            = input[type='button'][name='Add']
+

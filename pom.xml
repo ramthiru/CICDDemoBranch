@@ -1,0 +1,178 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com</groupId>
+  <artifactId>automation</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+
+  
+  <packaging>jar</packaging>
+
+  <name>Docker</name>
+  <url>http://maven.apache.org</url>
+
+   <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+  
+  <dependencies>
+  <!-- https://mvnrepository.com/artifact/com.oracle/ojdbc5 -->
+
+
+  <dependency>
+    <groupId>javax.mail</groupId>
+    <artifactId>mail</artifactId>
+    <version>1.4</version>
+</dependency>
+			
+			<dependency>
+				<groupId>net.sf.opencsv</groupId>
+				<artifactId>opencsv</artifactId>
+				<version>2.3</version>
+			</dependency>
+			
+     
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>3.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.testng</groupId>
+			<artifactId>testng</artifactId>
+			<version>6.8.5</version>
+		</dependency>
+		
+		<dependency>
+        	<groupId>org.apache.pdfbox</groupId>
+        	<artifactId>pdfbox</artifactId>
+        	<version>2.0.6</version>
+		</dependency>
+
+		<!-- <dependency>
+		   <groupId>oracle</groupId>
+		   <artifactId>ojdbc6</artifactId>
+		   <version>11.2.0.3</version>
+		   <scope>system</scope>
+    	  <systemPath>${project.basedir}/src/test/resources/retailsDrivers/ojdbc6-11.2.0.3.jar</systemPath>
+		</dependency>
+ -->
+
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-java</artifactId>
+			<version>2.45.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>net.sourceforge.jexcelapi</groupId>
+			<artifactId>jxl</artifactId>
+			<version>2.6.12</version>
+		</dependency>
+		
+	<dependency>
+    <groupId>com.aventstack</groupId>
+    <artifactId>extentreports</artifactId>
+    <version>3.0.5</version>
+</dependency>
+  	
+  	<dependency>
+				<groupId>org.mortbay.jetty.testwars</groupId>
+				<artifactId>test-war-log4j_1.2.15</artifactId>
+				<version>9.0.0.v20130315</version>
+				<type>war</type>
+			</dependency>
+  	
+  	
+		
+		<dependency>
+  		  	<groupId>org.slf4j</groupId>
+  			<artifactId>slf4j-simple</artifactId>
+  			<version>1.7.5</version>
+  	</dependency>
+		<dependency>
+		<groupId>log4j</groupId>
+		<artifactId>log4j</artifactId>
+		<version>1.2.17</version>
+	</dependency>	
+				<dependency>
+					<groupId>org.simpleframework</groupId>
+					<artifactId>simple-xml</artifactId>
+					<version>2.7.1</version>
+				</dependency>	
+				
+				
+						
+<dependency>
+   <groupId>org.apache.poi</groupId>
+   <artifactId>poi</artifactId>
+   <version>3.16</version>
+</dependency>
+
+<dependency>
+   <groupId>org.apache.poi</groupId>
+   <artifactId>poi-ooxml</artifactId>
+   <version>3.16</version>
+</dependency>
+<dependency>
+    <groupId>com.relevantcodes</groupId>
+    <artifactId>extentreports</artifactId>
+    <version>2.41.2</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
+<dependency>
+<groupId>org.apache.poi</groupId>
+<artifactId>poi</artifactId>
+<version>3.17</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
+<dependency>
+<groupId>org.apache.poi</groupId>
+<artifactId>poi-ooxml</artifactId>
+<version>3.17</version>
+</dependency>
+				
+  	
+	</dependencies>
+		
+  <build>
+    <plugins>
+	<plugin>
+            <groupId>org.codehaus.mojo</groupId>
+            <artifactId>sonar-maven-plugin</artifactId>
+            <version>1.0-beta-2</version>
+     </plugin>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.1</version>
+        <configuration>
+          <source>1.7</source>
+		  <target>1.7</target>
+		  <fork>true</fork>
+		  <executable>C:\Program Files\Java\jdk1.8.0_202\bin\javac.exe</executable>
+        </configuration>
+      </plugin>     
+      
+   
+		
+
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>2.18.1</version>
+				<configuration>
+					<suiteXmlFiles>
+				<suiteXmlFile>Execution/Aut.xml</suiteXmlFile>
+					</suiteXmlFiles>
+					<!-- <parallel>${env.PARALLEL}</parallel>
+					<threadCount>${env.THREADCOUNT}</threadCount> -->
+
+				</configuration>
+			</plugin>
+    </plugins>
+      </build>
+    
+</project>
