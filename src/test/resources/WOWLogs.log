@@ -988,3 +988,24 @@
 2022-07-09 01:57:11,649 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_CH_07_09_2022_01_55_13.html 
 2022-07-09 01:57:11,651 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
 2022-07-09 01:57:11,653 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 
+2022-07-17 02:41:24,157 [pool-1-thread-1] [INFO] [WowReport:71] - In CreateReport method - Test Name is : shop_createUserAccount 
+2022-07-17 02:41:24,189 [pool-1-thread-1] [INFO] [WowReport:94] - RESULTPATH........null 
+2022-07-17 02:41:24,192 [pool-1-thread-1] [INFO] [WowReport:126] - D:\AutomationFr\CustReport\shop_createUserAccount_07_17_2022_02_41_24\ 
+2022-07-17 02:41:24,195 [pool-1-thread-1] [INFO] [WowReport:160] - Created Report Header for Test case: shop_createUserAccount 
+2022-07-17 02:41:24,205 [pool-1-thread-1] [INFO] [WowReport:75] - Report Setup done 
+2022-07-17 02:41:34,082 [pool-1-thread-1] [INFO] [WowReport:260] - 1;Login Page;Navigated to Url : http://automationpractice.com/index.php;Pass 
+2022-07-17 02:42:32,232 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_07_17_2022_02_41_24\Create_new_user_account_07_17_2022_02_41_55.png 
+2022-07-17 02:42:32,238 [pool-1-thread-1] [INFO] [WowReport:260] - 2;Create new user account;Clicked on SignIn link;Pass_ScreenShot 
+2022-07-17 02:42:33,903 [pool-1-thread-1] [INFO] [WowReport:260] - 3;Create new user account;Entered the user email value;Pass 
+2022-07-17 02:42:42,052 [pool-1-thread-1] [INFO] [WowReport:202] - Screenshot taken for the Passed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_07_17_2022_02_41_24\Create_new_user_account_07_17_2022_02_42_37.png 
+2022-07-17 02:42:42,053 [pool-1-thread-1] [INFO] [WowReport:260] - 4;Create new user account;Clicked on Create an account button;Pass_ScreenShot 
+2022-07-17 02:42:46,600 [pool-1-thread-1] [INFO] [WowReport:228] - Screenshot taken for the Failed Test step: Create new user account Path: D:\AutomationFr\CustReport\shop_createUserAccount_07_17_2022_02_41_24\Create_new_user_account_07_17_2022_02_42_45.png 
+2022-07-17 02:42:47,932 [pool-1-thread-1] [INFO] [WowReport:260] - 5;Create new user account;Create new user account Execution interrupted by Some issues;Fail 
+2022-07-17 02:42:47,933 [pool-1-thread-1] [INFO] [WowReport:275] - *** Execution Ends *** 
+2022-07-17 02:42:48,994 [pool-1-thread-1] [INFO] [WowReport:290] - Total Passed Steps:4 
+2022-07-17 02:42:48,995 [pool-1-thread-1] [INFO] [WowReport:294] - Total Failed Steps:1 
+2022-07-17 02:42:49,000 [pool-1-thread-1] [INFO] [WowReport:298] - Total Informations:0 
+2022-07-17 02:42:49,000 [pool-1-thread-1] [INFO] [WowReport:302] - Total Warnings:0 
+2022-07-17 02:42:49,002 [pool-1-thread-1] [INFO] [WowReport:305] - Please find the Test report for the Test case in the Path: shop_createUserAccount_chrome_07_17_2022_02_41_24.html 
+2022-07-17 02:42:49,004 [pool-1-thread-1] [INFO] [WowReport:492] - Called overallStatusReport  
+2022-07-17 02:42:49,005 [pool-1-thread-1] [INFO] [WowReport:585] - Please find your overall results in the path: D:/AutomationFr/CustReport/overallStatusReport.html 

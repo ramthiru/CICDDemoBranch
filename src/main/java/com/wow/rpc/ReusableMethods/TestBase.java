@@ -11,6 +11,7 @@ import java.util.Map;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
@@ -25,6 +26,8 @@ import org.testng.log4testng.Logger;
 
 //import com.wow.rpc.Reports.Mail;
 import com.wow.rpc.Reports.WowReport;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
 
 
 public class TestBase {
@@ -47,20 +50,21 @@ public class TestBase {
    		
    	}
  
-    @Parameters({ "browser", "ENV" })
-	@BeforeTest
-	public void beforeTest(String browser, String ENV, ITestContext testContext) {
+   // @Parameters({ "browser", "ENV" })
+    @Parameters({"ENV" })
+    @BeforeTest
+	public void beforeTest(String ENV, ITestContext testContext) {
 		log.info("Inside @BeforeTest");
-		this.browserName = browser;
+		//this.browserName = browser;
 		this.environment = ENV;
 		this.testSetName = testContext.getName();
 
     }
-    
+    @Parameters("Browser")
     @BeforeMethod
-    protected void createDriver()
+    protected void createDriver(String Browser)
             throws MalformedURLException, UnexpectedException {
-      
+    	this.browserName = Browser;
         if(browserName.equalsIgnoreCase("GRID")) { 
         	
         
@@ -71,7 +75,8 @@ public class TestBase {
 		capabilities.setCapability("platform", "LINUX");
 	
 		//webDriver.set(new RemoteWebDriver(new URL("http://21.01.12.989:78787/wd/hub"), capabilities));
-        } else if(browserName.equalsIgnoreCase("CH")) { 
+        } else if(browserName.equalsIgnoreCase("chrome")) { 
+        	
         	System.out.println("Dirver path==" +System.getProperty("user.dir"));
     	String chDriverPath = System.getProperty("user.dir") + "\\src\\test\\resources\\retailsDrivers\\chromedriver.exe";
         System.setProperty("webdriver.chrome.driver", chDriverPath);
@@ -91,10 +96,14 @@ public class TestBase {
 		
 		webDriver.set(new ChromeDriver(options));
         
+        } else if(browserName.equalsIgnoreCase("firefox")) {
+        	
+        WebDriverManager.firefoxdriver().setup();
+        webDriver.set(new FirefoxDriver());
+       
         } else {
         	
         	System.out.println("Browser object not instantiated ..!!");
-        	
         }
 
     }

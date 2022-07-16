@@ -2,8 +2,8 @@
 <suite name="AutSuite" parallel="methods" thread-count="1">
 <test name="AutTest">
 <classes>
- <parameter name="browser" value="CH"/>
- <parameter name="ENV" value="SIT"/>
+ <!-- <parameter name="browser" value="CH"/>-->
+ <parameter name="ENV" value="SIT"/> 
 			 
 			 
 	 <class name="com.wow.rpc.TestCases.CreateAccountTest"/>
