@@ -103,7 +103,7 @@ public class TestBase {
        
         } else {
         	
-        	System.out.println("Browser object not instantiated ..!!");
+        	System.out.println("Browser object not instantiated, Please do the it first..!!");
         }
 
     }
