@@ -17,9 +17,7 @@
   
   <dependencies>
   <!-- https://mvnrepository.com/artifact/com.oracle/ojdbc5 -->
-
-
-  <dependency>
+<dependency>
     <groupId>javax.mail</groupId>
     <artifactId>mail</artifactId>
     <version>1.4</version>
@@ -105,9 +103,7 @@
 					<artifactId>simple-xml</artifactId>
 					<version>2.7.1</version>
 				</dependency>	
-				
-				
-						
+									
 <dependency>
    <groupId>org.apache.poi</groupId>
    <artifactId>poi</artifactId>
@@ -137,9 +133,7 @@
 <artifactId>poi-ooxml</artifactId>
 <version>3.17</version>
 </dependency>
-				
-  	
-	</dependencies>
+</dependencies>
 		
   <build>
     <plugins>
