@@ -51,7 +51,7 @@ public class CreateAccountTest extends TestBase{
 			    envDataload.loadTestScripts(curExeMethodName,environment);
 			    wowObj.autLogin(getDriver(),environment,reportThis,envDataload,envDataload.getTestdata("UserName"),envDataload.getTestdata("PassWord"));
 			    reObject.waitForPageLoad(getDriver());
-			    
+			    System.out.println("test");
 			    
 
 
